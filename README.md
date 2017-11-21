@@ -1,2 +1,2 @@
-# ianpasm-s-.vimrc
+# ianpasm-vimrc
 This .vimrc based on chxuan's vimplus,add some function,add update again later...
