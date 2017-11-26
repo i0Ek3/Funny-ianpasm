@@ -14,7 +14,7 @@
 " 通用设置
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " 定义快捷键的前缀，即<Leader>为空格
-let mapleader = " "
+let mapleader = ",." "double enter can avoid unnecessary trouble
 " 开启文件类型侦测
 filetype on
 " 根据侦测到的不同类型加载对应的插件
