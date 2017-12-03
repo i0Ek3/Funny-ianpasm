@@ -13,8 +13,9 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " 通用设置
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" 定义快捷键的前缀，即<Leader>为空格
-let mapleader = ",." "double enter can avoid unnecessary trouble
+" 定义快捷键的前缀，即<Leader>为,.
+"double enter can avoid unnecessary trouble
+let mapleader = ",." 
 " 开启文件类型侦测
 filetype on
 " 根据侦测到的不同类型加载对应的插件
