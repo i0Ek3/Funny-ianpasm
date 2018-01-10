@@ -104,3 +104,5 @@ alias fuck='sudo apt update && sudo apt upgrade'
 [[ -s /home/ianpasm/.autojump/etc/profile.d/autojump.sh  ]] && source /home/ianpasm/.autojump/etc/profile.d/autojump.sh
 autoload -U compinit && compinit -u
 
+# io.elementary.terminal
+builtin . /usr/share/io.elementary.terminal/enable-zsh-completion-notifications || builtin true
