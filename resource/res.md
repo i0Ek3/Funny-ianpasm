@@ -8,5 +8,8 @@
 ## Blog
 - [小土刀](http://wdxtub.com/)
 
+## Linux
+- [薄荷开源网](http://www.mintos.org)
+
 ## 12306抢票
 - [分流抢票](http://www.12306bypass.com/)
