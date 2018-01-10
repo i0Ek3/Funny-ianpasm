@@ -105,4 +105,4 @@ alias fuck='sudo apt update && sudo apt upgrade'
 autoload -U compinit && compinit -u
 
 # io.elementary.terminal
-builtin . /usr/share/io.elementary.terminal/enable-zsh-completion-notifications || builtin true
+# builtin . /usr/share/io.elementary.terminal/enable-zsh-completion-notifications || builtin true
