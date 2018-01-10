@@ -100,3 +100,7 @@ source $ZSH/oh-my-zsh.sh
 # alias
 alias fuck='sudo apt update && sudo apt upgrade'
 
+# install autojump
+[[ -s /home/ianpasm/.autojump/etc/profile.d/autojump.sh  ]] && source /home/ianpasm/.autojump/etc/profile.d/autojump.sh
+autoload -U compinit && compinit -u
+
