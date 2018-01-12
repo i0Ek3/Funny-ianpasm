@@ -21,3 +21,6 @@
 
 ## Shadowsocks
 - [ShadowsocksCustom](https://portal.shadowsocks.la)
+
+## Lanague
+- [Espranto](https://lernu.net/en)
