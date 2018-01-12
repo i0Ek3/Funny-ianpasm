@@ -11,6 +11,7 @@
 ## Linux
 - [薄荷开源网](http://www.mintos.org)
 - [Snapcraft](https://snapcraft.io/)
+- [brendangregg](http://www.brendangregg.com/)
 
 ## Linux Kernel
 - [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
