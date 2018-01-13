@@ -24,3 +24,6 @@
 
 ## Language
 - [Esperanto](https://lernu.net/en)
+
+## About OCR Algorithm
+- [From ZhiHu](https://www.zhihu.com/question/20191727)
