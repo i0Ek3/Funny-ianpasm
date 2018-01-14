@@ -393,6 +393,12 @@ nmap <Leader><Leader>il :IndentLinesToggle<CR>
 let g:pydiction_location='~/.vim/bundle/pydiction/complete-dict'
 let g:pydiction_menu_height=10
 
+" Personality
+if filereadable(expand($HOME . '/.vimrclocal'))
+    source $HOME/.vimrc.local
+endif
+
+
 autocmd BufNewFile *.hpp,*.cpp,*.cc exec ":call Addreadmecpp()"
 autocmd BufNewFile *.py exec ":call Addreadmepy()"
 autocmd BufNewFile *.sh exec ":call Addreadmesh()"
