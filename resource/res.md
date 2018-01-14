@@ -30,3 +30,6 @@
 
 ## npm + node + eletron
 - [npm+electron](http://blog.csdn.net/upc_xbt/article/details/53342129)
+
+## Xiaomi International Rom
+- [MIUI.en](http://en.miui.com/a-234.html)
