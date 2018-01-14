@@ -27,3 +27,6 @@
 
 ## About OCR Algorithm
 - [From ZhiHu](https://www.zhihu.com/question/20191727)
+
+## npm + node + eletron
+- [npm+electron](http://blog.csdn.net/upc_xbt/article/details/53342129)
