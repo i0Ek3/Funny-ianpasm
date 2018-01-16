@@ -99,6 +99,23 @@ source $ZSH/oh-my-zsh.sh
 
 # alias
 alias fuck='sudo apt update && sudo apt upgrade'
+alias c='clear'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias bc='bc -l'
+alias sha1='openssl sha1'
+alias diff='colordiff' # need install package
+alias mount='mount | column -t'
+alias h='history'
+alias j='jobs -l'
+alias ping='ping -c 5'
+alias fastping='ping -c 100 -s.2'
+alias ports='netstat -tulanp'
+alias wget='wget -c'
+
+# creatw new command
+alias path='echo -e ${PATH//:/\\n}'
+alias now='date'
 
 # install autojump
 [[ -s /home/ianpasm/.autojump/etc/profile.d/autojump.sh  ]] && source /home/ianpasm/.autojump/etc/profile.d/autojump.sh
