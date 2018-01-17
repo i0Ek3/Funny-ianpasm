@@ -49,8 +49,11 @@
 ## 12306抢票
 - [分流抢票](http://www.12306bypass.com/)
 
-## Shadowsocks
+## Proxy
 - [ShadowsocksCustom](https://portal.shadowsocks.la)
+- [firefly](https://github.com/yinghuocho/firefly-proxy)
+- [lantern](https://github.com/getlantern/lantern)
+- [XX-Net](https://github.com/XX-net/XX-Net)
 
 ## Language
 - [Esperanto](https://lernu.net/en)
