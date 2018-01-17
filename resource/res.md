@@ -16,6 +16,8 @@
 - [Snapcraft](https://snapcraft.io/)
 - [brendangregg](http://www.brendangregg.com/)
 - [Distrowatch](https://distrowatch.com/)
+- [Osdisc](https://www.osdisc.com/)
+
 
 ## Linux Kernel
 - [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
