@@ -29,6 +29,21 @@
 - [Linuxapps](https://www.opendesktop.org/s/Apps)
 
 
+## icons theme
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+- [Arc](https://github.com/horst3180/arc-theme)
+- [Adapta-gtk](https://github.com/adapta-project/adapta-gtk-theme)
+- [Arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde)
+- [Adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde)
+- [Flat-remix](thub.com/daniruiz/Flat-Remix)
+- [Flatabulous](https://github.com/anmoljagetia/Flatabulous)
+- [Oranchelo](https://github.com/OrancheloTeam/oranchelo-icon-theme)
+- [numix](https://github.com/numixproject/numix-icon-theme-circle)
+- [Flat-color](https://github.com/icons8/flat-color-icons)
+- []()
+
+
+
 ## hosts
 - [racaljk-hosts](https://github.com/racaljk/hosts)
 - [HTTPS代理IP](http://www.xicidaili.com/wn/)
