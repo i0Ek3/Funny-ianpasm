@@ -47,7 +47,7 @@
 ## hosts
 - [racaljk-hosts](https://github.com/racaljk/hosts)
 - [HTTPS代理IP](http://www.xicidaili.com/wn/)
-
+- [Tor](https://www.torproject.org/index.html.en)
 
 ## funny sofrware
 - [symless](https://symless.com/synergy)
