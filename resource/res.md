@@ -67,5 +67,9 @@
 ## Xiaomi International Rom
 - [MIUI.en](http://en.miui.com/a-234.html)
 
+## Security
+- [Freebuf](http://www.freebuf.com/)
+
 ## other
 - [开发者速查表](http://devhints.cn/)
+- [asciinema](https://asciinema.org/)
