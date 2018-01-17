@@ -17,7 +17,7 @@
 - [brendangregg](http://www.brendangregg.com/)
 - [Distrowatch](https://distrowatch.com/)
 - [Osdisc](https://www.osdisc.com/)
-
+- [清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 
 ## Linux Kernel
 - [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
