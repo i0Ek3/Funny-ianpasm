@@ -51,6 +51,7 @@
 
 ## Proxy
 - [ShadowsocksCustom](https://portal.shadowsocks.la)
+- [OVPN](https://www.ovpn.com/en)
 - [firefly](https://github.com/yinghuocho/firefly-proxy)
 - [lantern](https://github.com/getlantern/lantern)
 - [XX-Net](https://github.com/XX-net/XX-Net)
