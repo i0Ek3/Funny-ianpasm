@@ -10,6 +10,9 @@
 
 ## Blog
 - [小土刀](http://wdxtub.com/)
+- [老D](https://laod.cn/)
+- [我是菜鸟](https://imcn.me/)
+- [果冻](http://www.jellythink.com/)
 
 ## Linux
 - [薄荷开源网](http://www.mintos.org)
@@ -18,13 +21,28 @@
 - [Distrowatch](https://distrowatch.com/)
 - [Osdisc](https://www.osdisc.com/)
 - [清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+- [Chrome for linux](https://www.chrome64bit.com/index.php/google-chrome-64-bit-for-linux)
+- [Linux Software](https://www.gitbook.com/book/alim0x/awesome-linux-software-zh_cn/details)
+- [cdimage](http://cdimage.ubuntu.com/)
+- [mirror4linux](https://mirrors.ustc.edu.cn/)
+- [Pop!_OS](https://system76.com/pop)
+- [Linuxapps](https://www.opendesktop.org/s/Apps)
+
+
+## hosts
+- [racaljk-hosts](https://github.com/racaljk/hosts)
+
+## funny sofrware
+- [symless](https://symless.com/synergy)
+- [usbbootable](https://rufus.akeo.ie/)
+- [multibootusb](http://multibootusb.org/)
+
 
 ## Linux Kernel
 - [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
 
 ## Algorithm
 - [leetcode](https://leetcode.com/problemset/all/)
-
 
 ## 12306抢票
 - [分流抢票](http://www.12306bypass.com/)
@@ -35,7 +53,6 @@
 ## Language
 - [Esperanto](https://lernu.net/en)
 
-## About OCR Algorithm
 - [From ZhiHu](https://www.zhihu.com/question/20191727)
 
 ## npm + node + eletron
@@ -43,3 +60,6 @@
 
 ## Xiaomi International Rom
 - [MIUI.en](http://en.miui.com/a-234.html)
+
+## other
+- [开发者速查表](http://devhints.cn/)
