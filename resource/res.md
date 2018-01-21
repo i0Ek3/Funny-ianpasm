@@ -13,9 +13,13 @@
 - [老D](https://laod.cn/)
 - [我是菜鸟](https://imcn.me/)
 - [果冻](http://www.jellythink.com/)
+- [UBports](https://wiki.ubports.com/wiki/How-to-install-Ubuntu-Touch-16.04 'Awesome UBports')
+    - [porting](https://docs.ubuntu.com/phone/en/devices/porting-new-device)
 
 ## Linux
 - [薄荷开源网](http://www.mintos.org)
+- [Elementarycn](https://elementaryos.cn/)
+- [deepin-pkg](http://packages.deepin.com/deepin/pool/non-free/d/)
 - [Snapcraft](https://snapcraft.io/)
 - [brendangregg](http://www.brendangregg.com/)
 - [Distrowatch](https://distrowatch.com/)
@@ -88,3 +92,6 @@
 ## other
 - [开发者速查表](http://devhints.cn/)
 - [asciinema](https://asciinema.org/)
+
+
+
