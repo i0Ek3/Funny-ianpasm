@@ -13,8 +13,9 @@
 - [老D](https://laod.cn/)
 - [我是菜鸟](https://imcn.me/)
 - [果冻](http://www.jellythink.com/)
-- [UBports](https://wiki.ubports.com/wiki/How-to-install-Ubuntu-Touch-16.04 'Awesome UBports')
-    - [porting](https://docs.ubuntu.com/phone/en/devices/porting-new-device)
+- [秋水逸冰](https://teddysun.com/)
+- [看到是缘 明白是福](http://truth.atspace.eu/)
+
 
 ## Linux
 - [薄荷开源网](http://www.mintos.org)
@@ -31,6 +32,8 @@
 - [mirror4linux](https://mirrors.ustc.edu.cn/)
 - [Pop!_OS](https://system76.com/pop)
 - [Linuxapps](https://www.opendesktop.org/s/Apps)
+- [UBports](https://wiki.ubports.com/wiki/How-to-install-Ubuntu-Touch-16.04 'Awesome UBports')
+    - [porting](https://docs.ubuntu.com/phone/en/devices/porting-new-device)
 
 
 ## icons theme
@@ -44,14 +47,26 @@
 - [Oranchelo](https://github.com/OrancheloTeam/oranchelo-icon-theme)
 - [numix](https://github.com/numixproject/numix-icon-theme-circle)
 - [Flat-color](https://github.com/icons8/flat-color-icons)
-- []()
-
 
 
 ## hosts
 - [racaljk-hosts](https://github.com/racaljk/hosts)
 - [HTTPS代理IP](http://www.xicidaili.com/wn/)
 - [Tor](https://www.torproject.org/index.html.en)
+- [自建ss服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
+- [91yun](https://www.91yun.co/)
+- [doub](https://doub.bid/)
+
+
+
+## Proxy
+- [ShadowsocksCustom](https://portal.shadowsocks.la)
+- [OVPN](https://www.ovpn.com/en)
+- [VPS](https://www.vultr.com/)
+- [firefly](https://github.com/yinghuocho/firefly-proxy)
+- [lantern](https://github.com/getlantern/lantern)
+- [XX-Net](https://github.com/XX-net/XX-Net)
+- [freenet](https://github.com/Alvin9999/new-pac)
 
 ## funny sofrware
 - [symless](https://symless.com/synergy)
@@ -68,12 +83,6 @@
 ## 12306抢票
 - [分流抢票](http://www.12306bypass.com/)
 
-## Proxy
-- [ShadowsocksCustom](https://portal.shadowsocks.la)
-- [OVPN](https://www.ovpn.com/en)
-- [firefly](https://github.com/yinghuocho/firefly-proxy)
-- [lantern](https://github.com/getlantern/lantern)
-- [XX-Net](https://github.com/XX-net/XX-Net)
 
 ## Language
 - [Esperanto](https://lernu.net/en)
