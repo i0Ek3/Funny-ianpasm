@@ -72,7 +72,7 @@
 - [symless](https://symless.com/synergy)
 - [usbbootable](https://rufus.akeo.ie/)
 - [multibootusb](http://multibootusb.org/)
-
+- [Win-To-Go](https://docs.microsoft.com/zh-cn/previous-versions/windows/it-pro/windows-8.1-and-8/hh831833(v=ws.11))
 
 ## Linux Kernel
 - [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
