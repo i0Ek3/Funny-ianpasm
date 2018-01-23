@@ -31,7 +31,7 @@ ZSH_THEME="agnoster"
 export UPDATE_ZSH_DAYS=7
 
 # Uncomment the following line to disable colors in ls.
-# DISABLE_LS_COLORS="true"
+DISABLE_LS_COLORS="false"
 
 # Uncomment the following line to disable auto-setting terminal title.
 # DISABLE_AUTO_TITLE="true"
@@ -99,6 +99,7 @@ source $ZSH/oh-my-zsh.sh
 
 # alias
 alias fuck='sudo apt update && sudo apt upgrade'
+alias fuck='sudo rm /var/lib/apt/lists/lock'
 alias c='clear'
 alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
