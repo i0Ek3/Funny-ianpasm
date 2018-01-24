@@ -98,8 +98,8 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # alias
-alias fuck='sudo apt update && sudo apt upgrade'
-alias fuck='sudo rm /var/lib/apt/lists/lock'
+alias fuck='sudo apt update && sudo apt upgrade
+alias ul='sudo rm /var/lib/apt/lists/lock'
 alias c='clear'
 alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
