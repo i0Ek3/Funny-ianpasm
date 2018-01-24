@@ -5,8 +5,15 @@
 
 ## Movie
 - [bd-film](http://www.bd-film.co/)
+- [bt0](http://bt0.com/)
 - [人人影视](http://www.yyets.com/)
 - [六维空间](http://bt.neu6.edu.cn 'You need IPv6!')
+
+
+## 英语学习
+- [byoungd "RECOMMEND!"](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details)
+
+
 
 ## Blog
 - [小土刀](http://wdxtub.com/)
