@@ -56,7 +56,7 @@ set number
 set ruler           
 " 高亮显示当前行/列
 set cursorline
-" set cursorcolumn
+set cursorcolumn
 " 用浅色高亮当前行
 autocmd InsertEnter * se cul    
 " 禁止显示菜单和工具条
