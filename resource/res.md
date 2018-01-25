@@ -10,9 +10,9 @@
 - [六维空间](http://bt.neu6.edu.cn 'You need IPv6!')
 
 
-## 英语学习
-- [byoungd "RECOMMEND!"](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details)
-
+## Language
+- [Esperanto](https://lernu.net/en)
+- [byoungd](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
 
 
 ## Blog
@@ -65,7 +65,6 @@
 - [doub](https://doub.bid/)
 
 
-
 ## Proxy
 - [ShadowsocksCustom](https://portal.shadowsocks.la)
 - [OVPN](https://www.ovpn.com/en)
@@ -86,15 +85,10 @@
 
 ## Algorithm
 - [leetcode](https://leetcode.com/problemset/all/)
+- [识别算法](https://www.zhihu.com/question/20191727)
 
 ## 12306抢票
 - [分流抢票](http://www.12306bypass.com/)
-
-
-## Language
-- [Esperanto](https://lernu.net/en)
-
-- [From ZhiHu](https://www.zhihu.com/question/20191727)
 
 ## npm + node + eletron
 - [npm+electron](http://blog.csdn.net/upc_xbt/article/details/53342129)
@@ -108,6 +102,10 @@
 ## other
 - [开发者速查表](http://devhints.cn/)
 - [asciinema](https://asciinema.org/)
+
+## 宽带测速
+- [Speedtest](http://www.speedtest.net/)
+- [电信测速](http://service.sh.189.cn/service/speedNew)
 
 ## 申诉
 - [工信部申诉](http://www.chinatcc.gov.cn:8080/cms/shensus/)
