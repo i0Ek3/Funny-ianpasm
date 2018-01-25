@@ -26,6 +26,7 @@
 
 ## Linux
 - [薄荷开源网](http://www.mintos.org)
+- [easylinuxtipsproject](https://sites.google.com/site/easylinuxtipsproject/)
 - [Elementarycn](https://elementaryos.cn/)
 - [deepin-pkg](http://packages.deepin.com/deepin/pool/non-free/d/)
 - [Snapcraft](https://snapcraft.io/)
