@@ -7,6 +7,7 @@
 - [bd-film](http://www.bd-film.co/)
 - [bt0](http://bt0.com/)
 - [人人影视](http://www.yyets.com/)
+- [天天美剧](http://www.msj1.com/)
 - [六维空间](http://bt.neu6.edu.cn 'You need IPv6!')
 
 
@@ -42,6 +43,7 @@
 - [Linuxapps](https://www.opendesktop.org/s/Apps)
 - [UBports](https://wiki.ubports.com/wiki/How-to-install-Ubuntu-Touch-16.04 'Awesome UBports')
     - [porting](https://docs.ubuntu.com/phone/en/devices/porting-new-device)
+- [2daygeek](https://www.2daygeek.com/)
 
 
 ## Code Online
@@ -121,6 +123,7 @@
 
 ## Security
 - [Freebuf](http://www.freebuf.com/)
+- [SECWIKI](https://www.sec-wiki.com/)
 
 ## other
 - [开发者速查表](http://devhints.cn/)
