@@ -87,6 +87,15 @@
 
 ## funny link
 - [freepik](https://www.freepik.com/)
+- [music online](http://music.laod.cn/)
+
+## English site
+- [twitch](https://www.twitch.tv/)
+- [hancknews](https://news.ycombinator.com/news)
+- [stackoverflow](https://stackoverflow.com/)
+- [quora](https://www.quora.com/)
+- [reddit](https://www.reddit.com/)
+
 
 ## boot
 - [symless](https://symless.com/synergy)
