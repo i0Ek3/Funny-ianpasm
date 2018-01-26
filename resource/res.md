@@ -75,7 +75,10 @@
 - [XX-Net](https://github.com/XX-net/XX-Net)
 - [freenet](https://github.com/Alvin9999/new-pac)
 
-## funny sofrware
+## funny link
+- [freepik](https://www.freepik.com/)
+
+## boot
 - [symless](https://symless.com/synergy)
 - [usbbootable](https://rufus.akeo.ie/)
 - [multibootusb](http://multibootusb.org/)
