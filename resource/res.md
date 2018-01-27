@@ -48,7 +48,7 @@
 - [2daygeek](https://www.2daygeek.com/)
 - [FOSS](https://itsfoss.com/)
 - [异次元](https://www.iplaysoft.com/)
-
+- [Linux命令大全](http://man.linuxde.net/)
 
 ## Code Online
 - [实验楼](https://www.shiyanlou.com/)
@@ -95,6 +95,8 @@
 - [freepik](https://www.freepik.com/)
 - [music online](http://music.laod.cn/)
 - [MSDN](https://msdn.itellyou.cn/)
+- [萝卜头](http://bbs.luobotou.org/)
+- [远景](http://bbs.pcbeta.com/)
 
 
 ## English site
