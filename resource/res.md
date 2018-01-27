@@ -27,6 +27,7 @@
 
 ## Linux
 - [薄荷开源网](http://www.mintos.org)
+- [开源工厂](https://openingsource.org/)
 - [easylinuxtipsproject](https://sites.google.com/site/easylinuxtipsproject/)
 - [Elementarycn](https://elementaryos.cn/)
 - [deepin-pkg](http://packages.deepin.com/deepin/pool/non-free/d/)
@@ -37,6 +38,7 @@
 - [清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [Chrome for linux](https://www.chrome64bit.com/index.php/google-chrome-64-bit-for-linux)
 - [Linux Software](https://www.gitbook.com/book/alim0x/awesome-linux-software-zh_cn/details)
+- [LinuxStory](https://linuxstory.org/)
 - [cdimage](http://cdimage.ubuntu.com/)
 - [mirror4linux](https://mirrors.ustc.edu.cn/)
 - [Pop!_OS](https://system76.com/pop)
@@ -44,6 +46,8 @@
 - [UBports](https://wiki.ubports.com/wiki/How-to-install-Ubuntu-Touch-16.04 'Awesome UBports')
     - [porting](https://docs.ubuntu.com/phone/en/devices/porting-new-device)
 - [2daygeek](https://www.2daygeek.com/)
+- [FOSS](https://itsfoss.com/)
+- [异次元](https://www.iplaysoft.com/)
 
 
 ## Code Online
@@ -90,6 +94,8 @@
 ## funny link
 - [freepik](https://www.freepik.com/)
 - [music online](http://music.laod.cn/)
+- [MSDN](https://msdn.itellyou.cn/)
+
 
 ## English site
 - [twitch](https://www.twitch.tv/)
