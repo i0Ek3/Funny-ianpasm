@@ -98,7 +98,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # alias
-alias fuck='sudo apt update && sudo apt upgrade
+alias fuck='sudo apt update && sudo apt upgrade'
 alias ul='sudo rm /var/lib/apt/lists/lock'
 alias c='clear'
 alias egrep='egrep --color=auto'
@@ -122,5 +122,3 @@ alias now='date'
 [[ -s /home/ianpasm/.autojump/etc/profile.d/autojump.sh  ]] && source /home/ianpasm/.autojump/etc/profile.d/autojump.sh
 autoload -U compinit && compinit -u
 
-# io.elementary.terminal
-# builtin . /usr/share/io.elementary.terminal/enable-zsh-completion-notifications || builtin true
