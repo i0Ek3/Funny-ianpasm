@@ -7,9 +7,9 @@
 - [imac](https://imac.hk/tag/%E9%BB%91%E8%8B%B9%E6%9E%9C/)
 - [威锋](https://bbs.feng.com/thread-htm-fid-102.html)
 - [jikemac](https://www.jikemac.com/)
+- [bitbucket](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 
 ## Record
 >2018
->02-06:第二次开坑黑苹果
-       晚上，信息收集，准备[制作U盘启动盘](http://bbs.pcbeta.com/viewthread-1764286-1-5.html)。
+>02-06:第二次开坑黑苹果。晚上，信息收集，准备[制作U盘启动盘](http://bbs.pcbeta.com/viewthread-1764286-1-5.html)。
 
