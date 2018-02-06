@@ -11,4 +11,5 @@
 ## Record
 >2018
 >02-06:第二次开坑黑苹果
+       晚上，信息收集，准备[制作U盘启动盘](http://bbs.pcbeta.com/viewthread-1764286-1-5.html)。
 
