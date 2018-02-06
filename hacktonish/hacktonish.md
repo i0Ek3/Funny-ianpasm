@@ -8,6 +8,7 @@
 - [威锋](https://bbs.feng.com/thread-htm-fid-102.html)
 - [jikemac](https://www.jikemac.com/)
 - [bitbucket](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
+- [itmanbu](https://www.itmanbu.com/appleacpiplatform.html)
 
 ## Record
 >2018
