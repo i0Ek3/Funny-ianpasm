@@ -34,12 +34,16 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
         - 开机重启，设置相应的bios模式，我这里是四叶草gpt安装，我的电脑需要设置为dual boot模式。此时会进入代码刷屏界面，根据不同的错误进行爬贴排错（这里的排错可以是更换相应的参数，config.plist配置文件）。如果直接进入苹果的界面，那么恭喜你可以进行下一步安装了。
         - 初始安装,进入系统后使用磁盘工具进行抹盘操作，*注意备份数据*。由于我的笔记本上的硬盘只剩一块128G的SSD了，故我将64G的U盘当作系统盘抹掉了，也就说，我的系统在U盘里，没什么大的问题，就是安装速度会很慢。期间会进行多次重启，耐心等待即可。
         - 系统安装，这一步的安装是基于上一步的，这里需要你设置相应的偏好，调整即可，问题不大，不出意外，不一会儿你便可以正式进入苹果系统了。系统的成熟度和流畅度依赖于你的电脑及你的配置文件，有的可能遇到花屏、卡顿等现象，不要着急，也不用担心，慢慢调整驱动，利用注入、hotpatch等进行调整优化和完善，慢慢的你会得到一个可以日常使用的、流畅的系统的。
+        - 脱离U盘启动系统，直接挂载系统盘和u盘相应的EFI分区，将u盘EFI文件夹复制到系统盘中即可。
 
 - 系统图赏
-![]()
-![]()
-![]()
-![]()
+![1](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/屏幕快照%202018-02-08%2011.44.16.png)
+![2](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/屏幕快照%202018-02-08%2011.46.19.png)
+![3](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/屏幕快照%202018-02-08%2011.46.33.png)
+![4](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/屏幕快照%202018-02-08%2011.48.24.png)
+![5](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/屏幕快照%202018-02-08%2011.48.52.png)
+![6](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/屏幕快照%202018-02-08%2011.49.57.png)
+![7](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/屏幕快照%202018-02-08%2011.54.32.png)
 
 
 
@@ -53,6 +57,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - 后记
     - 继续完善和优化系统
         - 目前wifi,电池电量显示，蓝牙不可正常工作，其他均正常
+        - siri也可用
 
     - 由于直接使用了网友的EFI，故接下来需要自己研究一番
     
