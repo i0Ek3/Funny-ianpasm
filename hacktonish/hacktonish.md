@@ -13,7 +13,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [bitbucket](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [itmanbu](https://www.itmanbu.com/appleacpiplatform.html)
 - [daliansky](https://blog.daliansky.net/ "黑果小兵")
-
+- [黑苹果的折腾时光](https://www.jianshu.com/p/bd57a9324f08)
 
 ## Installation
 
@@ -78,6 +78,11 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
     - EFI 链接:https://pan.baidu.com/s/1gg84hMV  密码:ieij
     - macOS dmg 链接:https://pan.baidu.com/s/1eSToGuQ  密码:fqz5
     - 制作U盘启动所需材料 链接:https://pan.baidu.com/s/1dGJx8pr  密码:vvl8
+
+
+## 优化与完善
+
+- [hotpatch](https://blog.daliansky.net/hotpatch-detailed-solution.html)
 
 
 
