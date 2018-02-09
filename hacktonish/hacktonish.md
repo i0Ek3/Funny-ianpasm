@@ -83,7 +83,8 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 ## 优化与完善
 
 - [hotpatch](https://blog.daliansky.net/hotpatch-detailed-solution.html)
-
+- [DSDT/SSDT补丁](http://blog.csdn.net/wr132/article/details/54798754)
+- [DSDT/SSDT综合教程](http://blog.csdn.net/wangmj518/article/details/50748681)
 
 
 ## Records
