@@ -94,6 +94,53 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [ubunu下提取DSDT/SSDT](https://imac.hk/ubuntu-dsdt-ssdt-audio-id.html)
 - [内建SD读卡器](https://imac.hk/hackintosh-built-sd-reader.html) #003
 - [神舟系列驱动](http://bbs.pcbeta.com/viewthread-1761222-1-1.html)
+- [rehanman's guide for dsdt/ssdt fetch and build](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
+
+### Linux下提取ssdt/dsdt及声卡信息
+```Shell
+$ sudo cp -r /sys/fireware/acpi/table/* /target-path
+$ lspci -nn | grep Audio > ~/audio_info.txt
+```
+
+### 编译最新版的iasl
+
+- downlad latest version from [here](https://www.acpica.org/downloads)
+- tar and build source
+```Shell
+$ tar xzf acpica-unix-VERSION.tar.gz
+$ cd acpica-unix-VERSION
+$ make clean && make && sudo make install
+$ iasl
+```
+
+### 编译及反编译ssdt/dsdt
+**DO NOT OPEN .aml FILES WITH ANY TOOLS**
+- 根据上面提取的文件，只保留和dsdt/ssdt相关的文件即可
+- 利用2aml.sh将文件转换为.aml格式，用法： ./2aml.sh 1 2 .. 8
+- 利用iasl及refs.txt联合反编译ssdt/dsdt为.dsl文件，删去.aml文件
+```Shell
+$ iasl -da -dl -fe refs.txt DSDT.aml SSDT*.aml
+```
+**DO NOT OPEN .aml FILES WITH ANY TOOLS**
+- 这时你会看到dsl文件的生成，这是我们需要修改的，建议按顺序重新命名，并修改文件内的名称
+- ssdt中有关于CPU的，仅需删除其中一个OEM Table ID为CpuPm那个即可，然后利用ssdtGEN.sh生成一个新的ssdt，并命名为删去的那个即可
+*ssdtGEN.sh及其他用到的工具都可以在本项目中找到并下载，另外我也会上传百度云一份。*
+
+
+### 修改相关代码并打补丁
+- 确保你添加了相关的补丁源
+- 修改dsl文件中的代码，并打上你需要的补丁，或者你想要实现功能的补丁，直至编译零错误
+*建议观看@daxuexinsheng的视频，文末有地址*
+- 将没有错误的.dsl文件编译为.aml文件
+```Shell
+iasl *.dsl
+```
+- 最后将编译后的aml文件放到相应目录下，Clover中是/EFI/APCI/patched，并修改config.plist中的DropOEM=true,或者利用Clover configurator修改
+- 重启查看效果
+
+ps:只看教程可能晦涩难懂，我这里保存了远景论坛@daxuexinsheng录制的视频以供参考，感谢他的付出。
+链接:https://pan.baidu.com/s/1dCcpm2  密码:e9bs
+
 
 
 ## Records
@@ -102,4 +149,4 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 >02-07:黑果无果，不过解决了家里电脑连网线的问题。继续hacktonishing...<br>
 >02-08:昨晚10点的时候，黑果成功。一直在折腾来着，今天写篇教程记录下，后续再进行完善和优化。<br>
 >02-09:重新做了macOS到HHD上，作为测试，准备在其上进行hotpatch或者ssdt/dsdt.另，直接将4409的EFI拷贝到U盘中可以正常启动系统，初始系统和u盘里的并无二异。<br> 
-
+>02-10:学习dsdt/ssdt中，添加了自己的学习笔记和理解，接下来准备打补丁。<br>
