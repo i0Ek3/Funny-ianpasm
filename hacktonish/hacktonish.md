@@ -88,7 +88,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [电池补丁制作](http://bbs.pcbeta.com/viewthread-1521462-1-1.html)
 - [提取DSDT/SSDT](http://bbs.pcbeta.com/viewthread-1571455-1-1.html)
 - [联合编译](http://bbs.pcbeta.com/viewthread-1475332-1-1.html)
-- []()
+- [clover configurator使用](http://bbs.tpway.com/thread-5935-1-1.html)
 - []()
 
 
