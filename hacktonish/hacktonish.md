@@ -93,6 +93,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [亮度修复](https://imac.hk/adjust-the-screen-brightness.html) #002
 - [ubunu下提取DSDT/SSDT](https://imac.hk/ubuntu-dsdt-ssdt-audio-id.html)
 - [内建SD读卡器](https://imac.hk/hackintosh-built-sd-reader.html) #003
+- [神舟系列驱动](http://bbs.pcbeta.com/viewthread-1761222-1-1.html)
 
 
 ## Records
