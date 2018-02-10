@@ -99,6 +99,7 @@
 - [MSDN](https://msdn.itellyou.cn/)
 - [萝卜头](http://bbs.luobotou.org/)
 - [远景](http://bbs.pcbeta.com/)
+- [bitbucket](https://bitbucket.org/product)
 
 
 ## English site
