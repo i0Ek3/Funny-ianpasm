@@ -95,7 +95,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [提取DSDT/SSDT](http://bbs.pcbeta.com/viewthread-1571455-1-1.html)
 - [联合编译](http://bbs.pcbeta.com/viewthread-1475332-1-1.html)
 - [clover configurator使用](http://bbs.tpway.com/thread-5935-1-1.html)
-- [亮度修复](https://imac.hk/adjust-the-screen-brightness.html) #002
+- [亮度修复](https://imac.hk/adjust-the-screen-brightness.html) #002(fixed)
 - [ubunu下提取DSDT/SSDT](https://imac.hk/ubuntu-dsdt-ssdt-audio-id.html)
 - [内建SD读卡器](https://imac.hk/hackintosh-built-sd-reader.html) #003
 - [神舟系列驱动](http://bbs.pcbeta.com/viewthread-1761222-1-1.html)
@@ -151,7 +151,7 @@ ps:只看教程可能晦涩难懂，我这里保存了远景论坛@daxuexinsheng
 
 ## Status
 
-- 亮度，设置里可调节，状态栏无小太阳，按键映射不可用
+- 亮度，设置里可调节，按键映射可用
 - 声音，貌似正常，偶尔播放在线音乐的时候会有电流声？或者我听错里饿，耳机也好使
 - 无线、有线网络均好使
 - 有个屏幕图标那个是啥我不清楚，但是好使，外接显示器也没有问题，可以隔空让我家电视播放音乐
@@ -174,3 +174,4 @@ ps:只看教程可能晦涩难懂，我这里保存了远景论坛@daxuexinsheng
 >02-08:昨晚10点的时候，黑果成功。一直在折腾来着，今天写篇教程记录下，后续再进行完善和优化。<br>
 >02-09:重新做了macOS到HHD上，作为测试，准备在其上进行hotpatch或者ssdt/dsdt.另，直接将4409的EFI拷贝到U盘中可以正常启动系统，初始系统和u盘里的并无二异。<br> 
 >02-10:学习dsdt/ssdt中，添加了自己的学习笔记和理解，接下来准备打补丁。<br>
+>02-11:解决了亮度按键映射的问题,在设置>键盘>快捷键>显示器，里设置一组快捷键就行,我这里F4减少亮度，F5增加。睡觉！<br>
