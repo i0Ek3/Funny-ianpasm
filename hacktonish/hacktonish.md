@@ -8,7 +8,8 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 ## Related Forum
 - [远景](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1753483&page=1#pid47417983)
 - [tonymacx86](https://www.tonymacx86.com/)
-- [Kexts](http://www.insanelymac.com/forum/files/category/2-kexts/)
+- [osx86](https://www.osx86.net)
+- [insanel](http://www.insanelymac.com)
 - [威锋](https://bbs.feng.com/thread-htm-fid-102.html)
 - [bitbucket](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [itmanbu](https://www.itmanbu.com/appleacpiplatform.html)
@@ -138,9 +139,28 @@ iasl *.dsl
 - 最后将编译后的aml文件放到相应目录下，Clover中是/EFI/APCI/patched，并修改config.plist中的DropOEM=true,或者利用Clover configurator修改
 - 重启查看效果
 
-ps:只看教程可能晦涩难懂，我这里保存了远景论坛@daxuexinsheng录制的视频以供参考，感谢他的付出。
+ps:只看教程可能晦涩难懂，我这里保存了远景论坛@daxuexinsheng录制的视频以供参考，感谢他的付出。<br>
+
 链接:https://pan.baidu.com/s/1dCcpm2  密码:e9bs
 
+
+
+## Status
+
+- 亮度，设置里可调节，状态栏无小太阳，按键映射不可用
+- 声音，貌似正常，偶尔播放在线音乐的时候会有电流声？或者我听错里饿，耳机也好使
+- 无线、有线网络均好使
+- 有个屏幕图标那个是啥我不清楚，但是好使，外接显示器也没有问题，可以隔空让我家电视播放音乐
+- 睡眠也正常，黑屏后移动鼠标唤醒
+- 貌似水波纹也正常
+- 风扇一直转，虽然，但是，会影响电脑寿命
+- 触摸板算正常，单指、双指、三指均好使
+- 屏幕显示正常，开机等无花瓶
+- usb接口均正常
+- 系统使用流畅，无卡顿
+- 没法使用独立显卡
+- 没有电池状态
+- 蓝牙不可用
 
 
 ## Records
