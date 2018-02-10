@@ -86,11 +86,13 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [hotpatch](https://blog.daliansky.net/hotpatch-detailed-solution.html)
 - [DSDT/SSDT补丁](http://blog.csdn.net/wr132/article/details/54798754)
 - [DSDT/SSDT综合教程](http://blog.csdn.net/wangmj518/article/details/50748681)
-- [电池补丁制作](http://bbs.pcbeta.com/viewthread-1521462-1-1.html)
+- [电池补丁制作](http://bbs.pcbeta.com/viewthread-1521462-1-1.html) #001
 - [提取DSDT/SSDT](http://bbs.pcbeta.com/viewthread-1571455-1-1.html)
 - [联合编译](http://bbs.pcbeta.com/viewthread-1475332-1-1.html)
 - [clover configurator使用](http://bbs.tpway.com/thread-5935-1-1.html)
-- []()
+- [亮度修复](https://imac.hk/adjust-the-screen-brightness.html) #002
+- [ubunu下提取DSDT/SSDT](https://imac.hk/ubuntu-dsdt-ssdt-audio-id.html)
+- [内建SD读卡器](https://imac.hk/hackintosh-built-sd-reader.html) #003
 
 
 ## Records
