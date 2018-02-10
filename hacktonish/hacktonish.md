@@ -84,6 +84,10 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 
 ## 优化与完善
 
+- [推荐1](http://bbs.pcbeta.com/viewthread-1742550-1-1.html)
+- [推荐2](http://i.pcbeta.com/space-uid-3322572.html)
+- [推荐3](https://www.jianshu.com/p/bd57a9324f08)
+
 - [hotpatch](https://blog.daliansky.net/hotpatch-detailed-solution.html)
 - [DSDT/SSDT补丁](http://blog.csdn.net/wr132/article/details/54798754)
 - [DSDT/SSDT综合教程](http://blog.csdn.net/wangmj518/article/details/50748681)
