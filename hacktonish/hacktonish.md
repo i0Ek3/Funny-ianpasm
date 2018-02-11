@@ -43,6 +43,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
         - 脱离U盘启动系统，直接挂载系统盘和u盘相应的EFI分区，将u盘EFI文件夹复制到系统盘中即可。
 
 - 系统图赏
+![02-11](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/up.png)
 ![1](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/屏幕快照%202018-02-08%2011.44.16.png)
 ![2](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/屏幕快照%202018-02-08%2011.46.19.png)
 ![3](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/屏幕快照%202018-02-08%2011.46.33.png)
