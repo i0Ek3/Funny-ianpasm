@@ -91,7 +91,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [hotpatch](https://blog.daliansky.net/hotpatch-detailed-solution.html)
 - [DSDT/SSDT补丁](http://blog.csdn.net/wr132/article/details/54798754)
 - [DSDT/SSDT综合教程](http://blog.csdn.net/wangmj518/article/details/50748681)
-- [电池补丁制作](http://bbs.pcbeta.com/viewthread-1521462-1-1.html) #001
+- [电池补丁制作](http://bbs.pcbeta.com/viewthread-1521462-1-1.html) #001(fixed)
 - [提取DSDT/SSDT](http://bbs.pcbeta.com/viewthread-1571455-1-1.html)
 - [联合编译](http://bbs.pcbeta.com/viewthread-1475332-1-1.html)
 - [clover configurator使用](http://bbs.tpway.com/thread-5935-1-1.html)
@@ -158,12 +158,12 @@ ps:只看教程可能晦涩难懂，我这里保存了远景论坛@daxuexinsheng
 - 睡眠也正常，黑屏后移动鼠标唤醒
 - 貌似水波纹也正常
 - 风扇一直转，虽然，但是，会影响电脑寿命
-- 触摸板算正常，单指、双指、三指均好使
+- 触摸板算正常，单指、双指、三指均好使,系统设置里有显示
 - 屏幕显示正常，开机等无花瓶
 - usb接口均正常
 - 系统使用流畅，无卡顿
 - 没法使用独立显卡 #004
-- 没有电池状态 #005
+- 没有电池状态 #005(fixed)
 - 蓝牙不可用 #006
 
 
@@ -174,4 +174,6 @@ ps:只看教程可能晦涩难懂，我这里保存了远景论坛@daxuexinsheng
 >02-08:昨晚10点的时候，黑果成功。一直在折腾来着，今天写篇教程记录下，后续再进行完善和优化。<br>
 >02-09:重新做了macOS到HHD上，作为测试，准备在其上进行hotpatch或者ssdt/dsdt.另，直接将4409的EFI拷贝到U盘中可以正常启动系统，初始系统和u盘里的并无二异。<br> 
 >02-10:学习dsdt/ssdt中，添加了自己的学习笔记和理解，接下来准备打补丁。<br>
->02-11:解决了亮度按键映射的问题，感谢远景论坛的网友[13956737563](http://i.pcbeta.com/space-uid-4725659.html)提供的方法,在设置>键盘>快捷键>显示器，里设置一组快捷键就行,我这里F4减少亮度，F5增加。睡觉！<br>
+>02-11:解决了亮度按键映射的问题，感谢远景论坛的网友[13956737563](http://i.pcbeta.com/space-uid-4725659.html)提供的方法,在设置>键盘>快捷键>显示器，里设置一组快捷键就行,我这里F4减少亮度，F5增加。睡觉！<br> 晚上更新：ssdt/dsdt打补丁成功，解决了大部分问题。感谢远景大神@13956737563的无私指导，万分感谢！<br>
+
+>02-10:学习dsdt/ssdt中，添加了自己的学习笔记和理解，接下来准备打补丁。<br>
