@@ -21,15 +21,15 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 ## Installation
 
 - 前情提要
-    - 15年的时候装过一次黑苹果，遗憾于当时没能坚持，故只进入了苹果系统后便放弃折腾了，从那以后，几乎完全使用Linux了。当时折腾的版本是10.9.5.
-    - 大概是在一周前，看微信公众号的时候，注意到有个安全研究人员用着联想的黑苹果，一下子又勾起了我的欲望。此时，电脑仅有Linux系统，故起了折腾的念头。
+    - 15年的时候装过一次黑苹果，遗憾于当时没能坚持，故只进入了苹果系统后便放弃折腾了，从那以后，几乎完全使用Linux了。
+    - 大概是在一周前，看微信公众号的时候，注意到有个安全研究人员用着联想的黑苹果，一下子又勾起了我的欲望。
     - 自己也是学计算机的，想想折腾个黑苹果也还是有必要的，所以2月6日晚开始折腾。
 
 
 - 安装过程
     - [电脑配置](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/info/pcinfo.txt)
     - 材料准备
-        - 笔记本（最好是windows系统，方便操作，我使用的是win-to-go），U盘
+        - 笔记本（最好是windows系统，方便操作，我使用的是win-to-go），16G U盘
         - 系统镜像，看清楚你的是原版还是经过修改的，修改的有的会自带四叶草等
         - 相关软件
             - diskgeniu
@@ -40,7 +40,8 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
         - 开机重启，设置相应的bios模式，我这里是四叶草gpt安装，我的电脑需要设置为dual boot模式。此时会进入代码刷屏界面，根据不同的错误进行爬贴排错（这里的排错可以是更换相应的参数，config.plist配置文件）。如果直接进入苹果的界面，那么恭喜你可以进行下一步安装了。
         - 初始安装,进入系统后使用磁盘工具进行抹盘操作，*注意备份数据*。由于我的笔记本上的硬盘只剩一块128G的SSD了，故我将64G的U盘当作系统盘抹掉了，也就说，我的系统在U盘里，没什么大的问题，就是安装速度会很慢。期间会进行多次重启，耐心等待即可。
         - 系统安装，这一步的安装是基于上一步的，这里需要你设置相应的偏好，调整即可，问题不大，不出意外，不一会儿你便可以正式进入苹果系统了。系统的成熟度和流畅度依赖于你的电脑及你的配置文件，有的可能遇到花屏、卡顿等现象，不要着急，也不用担心，慢慢调整驱动，利用注入、hotpatch等进行调整优化和完善，慢慢的你会得到一个可以日常使用的、流畅的系统的。
-        - 脱离U盘启动系统，直接挂载系统盘和u盘相应的EFI分区，将u盘EFI文件夹复制到系统盘中即可。
+        - 脱离U盘启动系统，直接挂载系统盘和u盘相应的EFI分区，将u盘EFI文件夹复制到系统盘中即可，这样的好处在于可以让你升级黑苹果的系统少折腾一些。
+        - 快速启动，在苹果系统下运行clover configurator,挂载efi分区并加载config.plist配置文件，在clover configurator左边的boot项下选择default boot value，填写你想要直接进入的系统的名字，timeout设为0，保存覆盖重启即可。
 
 - 系统图赏
 ![02-11](https://github.com/i0Ek3/Funny-ianpasm/blob/master/hacktonish/pic/up.png)
@@ -94,13 +95,13 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [hotpatch](https://blog.daliansky.net/hotpatch-detailed-solution.html)
 - [DSDT/SSDT补丁](http://blog.csdn.net/wr132/article/details/54798754)
 - [DSDT/SSDT综合教程](http://blog.csdn.net/wangmj518/article/details/50748681)
-- [电池补丁制作](http://bbs.pcbeta.com/viewthread-1521462-1-1.html) #001(fixed)
+- [电池补丁制作](http://bbs.pcbeta.com/viewthread-1521462-1-1.html) 
 - [提取DSDT/SSDT](http://bbs.pcbeta.com/viewthread-1571455-1-1.html)
 - [联合编译](http://bbs.pcbeta.com/viewthread-1475332-1-1.html)
 - [clover configurator使用](http://bbs.tpway.com/thread-5935-1-1.html)
-- [亮度修复](https://imac.hk/adjust-the-screen-brightness.html) #002(fixed)
+- [亮度修复](https://imac.hk/adjust-the-screen-brightness.html)
 - [ubunu下提取DSDT/SSDT](https://imac.hk/ubuntu-dsdt-ssdt-audio-id.html)
-- [内建SD读卡器](https://imac.hk/hackintosh-built-sd-reader.html) #003
+- [内建SD读卡器](https://imac.hk/hackintosh-built-sd-reader.html) 
 - [神舟系列驱动](http://bbs.pcbeta.com/viewthread-1761222-1-1.html)
 - [rehanman's guide for dsdt/ssdt fetch and build](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
 
@@ -160,23 +161,25 @@ ps:只看教程可能晦涩难懂，我这里保存了远景论坛@daxuexinsheng
 - 有个屏幕图标那个是啥我不清楚，但是好使，外接显示器也没有问题，可以隔空让我家电视播放音乐
 - 睡眠也正常，黑屏后移动鼠标唤醒
 - 貌似水波纹也正常
-- 风扇一直转，虽然，但是，会影响电脑寿命（这个问题通过打补丁也修复了 02-11晚补充）
+- 风扇一直转，虽然，但是，会影响电脑寿命（这个问题通过打补丁也修复了 02-11晚补充）#001
 - 触摸板算正常，单指、双指、三指均好使,系统设置里有显示
 - 屏幕显示正常，开机等无花瓶
 - usb接口均正常
+- 电池状态及电源管理正常
 - 系统使用流畅，无卡顿
-- 没法使用独立显卡 #004
-- 没有电池状态 #005(fixed)
-- 蓝牙不可用 #006（因为本机无线网卡不带蓝牙，故无法驱动，考虑更换博通网卡解决 02-11晚补充）
+- 读卡器不可用 #001
+- 没法使用独立显卡 #002
+- 蓝牙不可用 #003（因为本机无线网卡不带蓝牙，故无法驱动，考虑更换博通网卡解决 02-11晚补充）
 
 
 ## Records
 >2018<br>
->02-06:第二次开坑黑苹果。晚上，信息收集，准备[制作U盘启动盘](http://bbs.pcbeta.com/viewthread-1764286-1-5.html)。<br>
->02-07:黑果无果，不过解决了家里电脑连网线的问题。继续hacktonishing...<br>
->02-08:昨晚10点的时候，黑果成功。一直在折腾来着，今天写篇教程记录下，后续再进行完善和优化。<br>
->02-09:重新做了macOS到HHD上，作为测试，准备在其上进行hotpatch或者ssdt/dsdt.另，直接将4409的EFI拷贝到U盘中可以正常启动系统，初始系统和u盘里的并无二异。<br>
->02-10:学习dsdt/ssdt中，添加了自己的学习笔记和理解，接下来准备打补丁。<br>
->02-11:解决了亮度按键映射的问题，感谢远景论坛的网友[13956737563](http://i.pcbeta.com/space-uid-4725659.html)提供的方法,在设置>键盘>快捷键>显示器，里设置一组快捷键就行,我这里F4减少亮度，F5增加。睡觉！<br>
->>晚上更新：ssdt/dsdt打补丁成功，解决了大部分问题，当然也带来了部分新的小问题，正在努力解决中。感谢远景大神@13956737563的无私指导，万分感谢！<br>
->>接下来继续优化和完善黑苹果，解决上述小问题和其他问题。并尝试学习hotpatched方法解决问题。本机的黑苹果基本完美，准备制作新的单系统到ssd，开始正常使用。
+>>02-06:第二次开坑黑苹果。晚上，信息收集，准备[制作U盘启动盘](http://bbs.pcbeta.com/viewthread-1764286-1-5.html)。<br>
+>>02-07:黑果无果，不过解决了家里电脑连网线的问题。继续hacktonishing...<br>
+>>02-08:昨晚10点的时候，黑果成功。一直在折腾来着，今天写篇教程记录下，后续再进行完善和优化。<br>
+>>02-09:重新做了macOS到HHD上，作为测试，准备在其上进行hotpatch或者ssdt/dsdt.另，直接将4409的EFI拷贝到U盘中可以正常启动系统，初始系统和u盘里的并无二异。<br>
+>>02-10:学习dsdt/ssdt中，添加了自己的学习笔记和理解，接下来准备打补丁。<br>
+>>02-11:解决了亮度按键映射的问题，感谢远景论坛的网友[13956737563](http://i.pcbeta.com/space-uid-4725659.html)提供的方法,在设置>键盘>快捷键>显示器，里设置一组快捷键就行,我这里F4减少亮度，F5增加。睡觉！<br>
+>>>晚上更新：ssdt/dsdt打补丁成功，解决了大部分问题，当然也带来了部分新的小问题，正在努力解决中。感谢远景大神@13956737563的无私指导，万分感谢！<br>
+>>>接下来继续优化和完善黑苹果，解决上述小问题和其他问题。并尝试学习hotpatched方法解决问题。本机的黑苹果基本完美，准备制作新的单系统到ssd，开始正常使用。<br>
+>>02-12:优化了文章的内容，并打算重新制作一份补丁，并新装系统。<br>
