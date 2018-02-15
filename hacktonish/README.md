@@ -2,6 +2,8 @@
 
 Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，姑且就不改了，这样也挺好的.文章难免有错，请不吝指出，感谢。
 
+### Happy New Year!
+
 
 # macOS使用
 [官方使用指南](https://help.apple.com/macOS/high-sierra/mac-basics/?lang=zh-cn#/outro)
@@ -175,3 +177,4 @@ ps:只看教程可能晦涩难懂，我这里保存了远景论坛@daxuexinsheng
 >>02-12:优化了文章的内容，并打算重新制作一份补丁，并新装系统。<br>
 >>02-13:删了所有的系统，启动盘也不好使了，fucked up。但是，我U盘里的系统还是可以正常使用的，开始抢救。下午修复了亮度问题，clover configurator是个很强大的软件。<br>
 >>02-14:使用状态请参考EFI-update/下的changelog.md。修复了睡眠唤醒后无声问题。
+>>02-15:新年快乐。昨晚也没解决什么问题，就是下载了一些软件，心得：尽量不要去苹果商店以外的地方下载软件，因为不保障有垃圾软件劫持，请尽量支持正版！<br>
