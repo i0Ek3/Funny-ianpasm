@@ -6,7 +6,10 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 
 
 # macOS使用
-[官方使用指南](https://help.apple.com/macOS/high-sierra/mac-basics/?lang=zh-cn#/outro)
+- [官方使用指南](https://help.apple.com/macOS/high-sierra/mac-basics/?lang=zh-cn#/outro)
+- [xclient](http://xclient.info/?_=8854065baa5c04fa30fc193b4a000714)
+- [MAS](https://www.waerfa.com/tag/mas)
+
 
 ## Related Forum
 - [远景](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1753483&page=1#pid47417983)
