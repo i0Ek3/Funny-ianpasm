@@ -12,6 +12,17 @@
 - [六维空间](http://bt.neu6.edu.cn 'You need IPv6!')
 
 
+## Music
+- [voicer](http://www.voicer.me/?s=Mixtape)
+- [22tracks](http://22tracks.com/#!ams/starclub/36391)
+- [otohibi](http://www.otohibi.com)
+- [focusmusic](https://focusmusic.fm)
+- [tradiio](https://tradiio.com)
+- [joepbeving](http://joepbeving.com)
+- MOZIK
+
+
+
 ## Language
 - [Esperanto](https://lernu.net/en)
 - [byoungd](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
@@ -97,6 +108,7 @@
 
 ## funny link
 - [freepik](https://www.freepik.com/)
+- [小众软件](https://www.appinn.com)
 - [music online](http://music.laod.cn/)
 - [MSDN](https://msdn.itellyou.cn/)
 - [萝卜头](http://bbs.luobotou.org/)
