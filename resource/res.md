@@ -18,6 +18,8 @@
 
 
 ## Blog
+- [readhub](https://readhub.me)
+- [evilcos](http://evilcos.me)
 - [小土刀](http://wdxtub.com/)
 - [老D](https://laod.cn/)
 - [我是菜鸟](https://imcn.me/)
