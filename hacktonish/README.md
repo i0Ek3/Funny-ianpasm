@@ -12,7 +12,10 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [官方使用指南](https://help.apple.com/macOS/high-sierra/mac-basics/?lang=zh-cn#/outro)
 - [xclient](http://xclient.info/?_=8854065baa5c04fa30fc193b4a000714)
 - [MAS](https://www.waerfa.com/tag/mas)
-
+- [mac360](http://mac360.com)
+- [推荐](https://www.waerfa.com/21-small-great-macos-apps)
+- [mac dev deploy](https://github.com/sb2nov/mac-setup)
+- [mactex](http://www.tug.org/mactex/mactex-download.html)
 
 ## Related Forum
 - [远景](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1753483&page=1#pid47417983)
