@@ -6,8 +6,6 @@
 
 Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，姑且就不改了，这样也挺好的.文章难免有错，请不吝指出，感谢。
 
-
-
 # macOS使用
 - [官方使用指南](https://help.apple.com/macOS/high-sierra/mac-basics/?lang=zh-cn#/outro)
 - [xclient](http://xclient.info/?_=8854065baa5c04fa30fc193b4a000714)
@@ -16,6 +14,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [推荐](https://www.waerfa.com/21-small-great-macos-apps)
 - [mac dev deploy](https://github.com/sb2nov/mac-setup)
 - [mactex](http://www.tug.org/mactex/mactex-download.html)
+
 
 ## Related Forum
 - [远景](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1753483&page=1#pid47417983)
@@ -28,6 +27,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [daliansky](https://blog.daliansky.net/ "黑果小兵")
 - [黑苹果的折腾时光](https://www.jianshu.com/p/bd57a9324f08)
 - [黑苹果乐园](https://imac.hk/category/course/)
+- [Create macOS installation USB](https://www.tonymacx86.com/threads/how-to-create-a-macos-high-sierra-public-beta-installation-usb.225520/)
 
 ## Installation
 
