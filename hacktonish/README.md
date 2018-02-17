@@ -14,7 +14,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [推荐](https://www.waerfa.com/21-small-great-macos-apps)
 - [mac dev deploy](https://github.com/sb2nov/mac-setup)
 - [mactex](http://www.tug.org/mactex/mactex-download.html)
-
+- [软件推荐](https://www.zhihu.com/question/27158546)
 
 ## Related Forum
 - [远景](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1753483&page=1#pid47417983)
