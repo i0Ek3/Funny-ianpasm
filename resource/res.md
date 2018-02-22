@@ -109,6 +109,7 @@
 - [freenet](https://github.com/Alvin9999/new-pac)
 
 ## funny link
+- [Free JetBrains License Servers](http://xidea.online) **推荐**
 - [freepik](https://www.freepik.com/)
 - [小众软件](https://www.appinn.com)
 - [music online](http://music.laod.cn/)
