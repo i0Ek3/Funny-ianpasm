@@ -39,6 +39,7 @@
 - [果冻](http://www.jellythink.com/)
 - [秋水逸冰](https://teddysun.com/)
 - [看到是缘 明白是福](http://truth.atspace.eu/)
+- [lucifr](https://lucifr.com/archives/)
 
 
 ## Linux
@@ -65,6 +66,8 @@
 - [FOSS](https://itsfoss.com/)
 - [异次元](https://www.iplaysoft.com/)
 - [Linux命令大全](http://man.linuxde.net/)
+- [ubuntupit](https://www.ubuntupit.com)
+
 
 ## Code Online
 - [实验楼](https://www.shiyanlou.com/)
