@@ -1,7 +1,3 @@
-# Happy New Year!
-
---------------------------
-
 # Hacktonish
 
 Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，姑且就不改了，这样也挺好的.文章难免有错，请不吝指出，感谢。
