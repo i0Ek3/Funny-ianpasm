@@ -1,5 +1,9 @@
 # Funny Resources
 
+## Oneline Editor
+- [Google Doc](https://docs.google.com/document/u/0/?authuser=0&usp=docs_web)
+
+
 ## Beautiful Pictures
 - [Unsplash](https://unsplash.com/)
 - [wallhaven](https://alpha.wallhaven.cc)
