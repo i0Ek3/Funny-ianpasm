@@ -47,6 +47,7 @@
 - [秋水逸冰](https://teddysun.com/)
 - [看到是缘 明白是福](http://truth.atspace.eu/)
 - [lucifr](https://lucifr.com/archives/)
+- [读思](http://read-think.com/)
 
 
 ## Linux
