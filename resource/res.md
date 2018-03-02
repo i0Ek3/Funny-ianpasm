@@ -1,5 +1,12 @@
 # Funny Resources
 
+## Third Rom
+- [AOSIP](https://get.aosiprom.com/shamu/)
+- [AOSCP](http://get.cypheros.co)
+- [Mokee](rom.mk)
+- [Linageos](https://download.lineageos.org)
+
+
 ## China
 - [cn-data](https://github.com/cn)
 
@@ -9,6 +16,7 @@
 
 
 ## Beautiful Pictures
+- [octodex](https://octodex.github.com)
 - [Unsplash](https://unsplash.com/)
 - [wallhaven](https://alpha.wallhaven.cc)
 
@@ -113,6 +121,7 @@
 ## Proxy
 - [ShadowsocksCustom](https://portal.shadowsocks.la)
 - [PortsClients4SS](https://github.com/shadowsocks/shadowsocks/wiki/Ports-and-Clients)
+- [shadowsocks.org](http://shadowsocks.org/en/index.html)
 - [OVPN](https://www.ovpn.com/en)
 - [VPS](https://www.vultr.com/)
 - [firefly](https://github.com/yinghuocho/firefly-proxy)
