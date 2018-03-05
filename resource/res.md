@@ -5,6 +5,7 @@
 - [AOSCP](http://get.cypheros.co)
 - [Mokee](rom.mk)
 - [Linageos](https://download.lineageos.org)
+- [sailfish os](http://images.devaamo.fi)
 
 
 ## China
@@ -46,6 +47,7 @@
 
 
 ## Blog
+- [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
 - [readhub](https://readhub.me)
 - [evilcos](http://evilcos.me)
 - [小土刀](http://wdxtub.com/)
@@ -87,6 +89,7 @@
 
 
 ## Code Online
+- [源码共读](https://ymgd.github.io/codereader/tag/)
 - [实验楼](https://www.shiyanlou.com/)
 - [慕课网](https://www.imooc.com/)
 - [i春秋](https://www.ichunqiu.com/)
