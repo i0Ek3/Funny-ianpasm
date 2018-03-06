@@ -24,6 +24,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [黑苹果的折腾时光](https://www.jianshu.com/p/bd57a9324f08)
 - [黑苹果乐园](https://imac.hk/category/course/)
 - [Create macOS installation USB](https://www.tonymacx86.com/threads/how-to-create-a-macos-high-sierra-public-beta-installation-usb.225520/)
+- [猫叔博客](https://www.maoshu.cc)
 
 ## Installation
 
