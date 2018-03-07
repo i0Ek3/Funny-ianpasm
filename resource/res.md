@@ -1,5 +1,10 @@
 # Funny Resources
 
+## c/c++ reference
+- [en](http://en.cppreference.com/w/)
+- [zh](http://zh.cppreference.com/w/首页)
+
+
 ## Third Rom
 - [AOSIP](https://get.aosiprom.com/shamu/)
 - [AOSCP](http://get.cypheros.co)
@@ -134,6 +139,7 @@
 - [freenet](https://github.com/Alvin9999/new-pac)
 
 ## funny link
+- [when to buy apple products](https://buyersguide.macrumors.com/#Mac)
 - [Free JetBrains License Servers](http://xidea.online) **推荐**
 - [freepik](https://www.freepik.com/)
 - [小众软件](https://www.appinn.com)
