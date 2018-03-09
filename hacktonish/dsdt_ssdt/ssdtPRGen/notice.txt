@@ -1,0 +1,3 @@
+注意，ym2008提供的文件是基于i7-4700MQ的，炫龙A40L的是基于i7-4710MQ的
+    故需要更换ym2008提供的文件中的SSDT-PRGen.aml为该目录下的SSDT-PRGen.aml
+    修改config中CPU的相关参数
