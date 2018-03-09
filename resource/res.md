@@ -1,9 +1,17 @@
 # Funny Resources
 
-## c/c++ reference
-- [en](http://en.cppreference.com/w/)
-- [zh](http://zh.cppreference.com/w/首页)
-
+## Programing
+- c/c++
+    - [en](http://en.cppreference.com/w/)
+    - [zh](http://zh.cppreference.com/w/首页)
+- [python](https://www.python.org)
+- [go](https://golang.org)
+- [scala](http://www.scala-lang.org)
+- vala
+    - [project-vala](https://wiki.gnome.org/Projects/Vala)
+    - [valadoc](https://valadoc.org)
+- [lisp](https://common-lisp.net)
+- [haskell](https://www.haskell.org)
 
 ## Third Rom
 - [AOSIP](https://get.aosiprom.com/shamu/)
@@ -141,6 +149,9 @@
 ## funny link
 - [when to buy apple products](https://buyersguide.macrumors.com/#Mac)
 - [Free JetBrains License Servers](http://xidea.online) **推荐**
+- [github使用教程](https://www.zhihu.com/question/20070065)
+- [jekyll模板](http://jekyllthemes.org)
+- [hexo.io](https://hexo.io/zh-cn/docs/setup.html)
 - [freepik](https://www.freepik.com/)
 - [小众软件](https://www.appinn.com)
 - [music online](http://music.laod.cn/)
