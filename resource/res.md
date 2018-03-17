@@ -1,5 +1,9 @@
 # Funny Resources
 
+## Blockchain
+- [8btc](http://www.8btc.com)
+- [铅笔区块链](http://www.chainb.com) 
+
 ## Programing
 - c/c++
     - [en](http://en.cppreference.com/w/)
