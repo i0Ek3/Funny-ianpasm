@@ -23,6 +23,8 @@
 - [Mokee](rom.mk)
 - [Linageos](https://download.lineageos.org)
 - [sailfish os](http://images.devaamo.fi)
+- [Oreo for bacon](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
+    - [download](https://androidfilehost.com/?w=files&flid=211773)
 
 
 ## China
