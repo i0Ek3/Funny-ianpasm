@@ -1,8 +1,18 @@
 # Funny Resources
 
+## Cyber Security
+- [vulhub](http://vulhub.org)
+- [Freebuf](http://www.freebuf.com/)
+- [SECWIKI](https://www.sec-wiki.com/)
+
+
 ## Blockchain
 - [8btc](http://www.8btc.com)
-- [铅笔区块链](http://www.chainb.com) 
+- [铅笔区块链](http://www.chainb.com)
+- [cdecker](https://cdecker.github.io/btcresearch/#2017)
+- [blockchainlibrary](https://blockchainlibrary.org/category/academic-publications/)
+- []()
+- []()
 
 ## Programing
 - c/c++
@@ -81,6 +91,25 @@
 - [firewolf](https://www.firewolf.science)
 
 
+## funny link
+- [ibm](https://www.ibm.com/developerworks/cn/)
+- [codelf](http://unbug.github.io/codelf/)
+- [docker store](https://store.docker.com/search?q=&source=verified&type=image)
+- [when to buy apple products](https://buyersguide.macrumors.com/#Mac)
+- [Free JetBrains License Servers](http://xidea.online) **推荐**
+- [github使用教程](https://www.zhihu.com/question/20070065)
+- [jekyll模板](http://jekyllthemes.org)
+- [hexo.io](https://hexo.io/zh-cn/docs/setup.html)
+- [freepik](https://www.freepik.com/)
+- [小众软件](https://www.appinn.com)
+- [music online](http://music.laod.cn/)
+- [MSDN](https://msdn.itellyou.cn/)
+- [萝卜头](http://bbs.luobotou.org/)
+- [雷锋网](https://www.leiphone.com)
+- [远景](http://bbs.pcbeta.com/)
+- [bitbucket](https://bitbucket.org/product)
+
+
 ## Linux
 - [薄荷开源网](http://www.mintos.org)
 - [开源工厂](https://openingsource.org/)
@@ -153,22 +182,6 @@
 - [freenet](https://github.com/Alvin9999/new-pac)
 
 
-## funny link
-- [codelf](http://unbug.github.io/codelf/)
-- [docker store](https://store.docker.com/search?q=&source=verified&type=image)
-- [when to buy apple products](https://buyersguide.macrumors.com/#Mac)
-- [Free JetBrains License Servers](http://xidea.online) **推荐**
-- [github使用教程](https://www.zhihu.com/question/20070065)
-- [jekyll模板](http://jekyllthemes.org)
-- [hexo.io](https://hexo.io/zh-cn/docs/setup.html)
-- [freepik](https://www.freepik.com/)
-- [小众软件](https://www.appinn.com)
-- [music online](http://music.laod.cn/)
-- [MSDN](https://msdn.itellyou.cn/)
-- [萝卜头](http://bbs.luobotou.org/)
-- [远景](http://bbs.pcbeta.com/)
-- [bitbucket](https://bitbucket.org/product)
-
 
 ## English site
 - [twitch](https://www.twitch.tv/)
@@ -199,10 +212,6 @@
 
 ## Xiaomi International Rom
 - [MIUI.en](http://en.miui.com/a-234.html)
-
-## Security
-- [Freebuf](http://www.freebuf.com/)
-- [SECWIKI](https://www.sec-wiki.com/)
 
 ## other
 - [开发者速查表](http://devhints.cn/)
