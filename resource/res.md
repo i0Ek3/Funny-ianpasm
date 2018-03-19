@@ -30,7 +30,7 @@
 ## Third Rom
 - [AOSIP](https://get.aosiprom.com/shamu/)
 - [AOSCP](http://get.cypheros.co)
-- [Mokee](rom.mk)
+- [Mokee](https://download.mokeedev.com)
 - [Linageos](https://download.lineageos.org)
 - [sailfish os](http://images.devaamo.fi)
 - [Oreo for bacon](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
