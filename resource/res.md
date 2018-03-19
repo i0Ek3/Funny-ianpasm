@@ -11,6 +11,9 @@
 - [铅笔区块链](http://www.chainb.com)
 - [cdecker](https://cdecker.github.io/btcresearch/#2017)
 - [blockchainlibrary](https://blockchainlibrary.org/category/academic-publications/)
+- [以太坊爱好者](http://ethfans.org/wikis/Home)
+- [bitcointalk](https://bitcointalk.org)
+- [CNN](https://www.ccn.com)
 - []()
 - []()
 
