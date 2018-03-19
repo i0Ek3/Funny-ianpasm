@@ -95,6 +95,7 @@
 
 
 ## funny link
+- [sideidea](http://sideidea.com)
 - [ibm](https://www.ibm.com/developerworks/cn/)
 - [codelf](http://unbug.github.io/codelf/)
 - [docker store](https://store.docker.com/search?q=&source=verified&type=image)
