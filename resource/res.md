@@ -14,7 +14,7 @@
 - [以太坊爱好者](http://ethfans.org/wikis/Home)
 - [bitcointalk](https://bitcointalk.org)
 - [CNN](https://www.ccn.com)
-- []()
+- [blockchain-sec](https://blockchain-sec.com)
 - []()
 
 ## Programing
@@ -203,6 +203,8 @@
 
 ## Linux Kernel
 - [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
+- [LKRG](http://www.openwall.com/lkrg/)
+
 
 ## Algorithm
 - [leetcode](https://leetcode.com/problemset/all/)
