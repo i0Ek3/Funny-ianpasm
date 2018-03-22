@@ -4,6 +4,8 @@
 - [vulhub](http://vulhub.org)
 - [Freebuf](http://www.freebuf.com/)
 - [SECWIKI](https://www.sec-wiki.com/)
+- [看雪](https://bbs.pediy.com)
+
 
 
 ## Blockchain
@@ -15,7 +17,11 @@
 - [bitcointalk](https://bitcointalk.org)
 - [CNN](https://www.ccn.com)
 - [blockchain-sec](https://blockchain-sec.com)
-- []()
+- [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
+- [bitcoin-on-nodejs](http://bitcoin-on-nodejs.ebookchain.org)
+- [精通比特币](http://zhibimo.com/read/wang-miao/mastering-bitcoin/)
+
+
 
 ## Programing
 - c/c++
@@ -30,6 +36,8 @@
 - [lisp](https://common-lisp.net)
 - [haskell](https://www.haskell.org)
 
+
+
 ## Third Rom
 - [AOSIP](https://get.aosiprom.com/shamu/)
 - [AOSCP](http://get.cypheros.co)
@@ -38,6 +46,7 @@
 - [sailfish os](http://images.devaamo.fi)
 - [Oreo for bacon](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
     - [download](https://androidfilehost.com/?w=files&flid=211773)
+
 
 
 ## China
@@ -79,7 +88,7 @@
 
 
 ## Blog
-- [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
+- [draveness](https://draveness.me/index)
 - [readhub](https://readhub.me)
 - [evilcos](http://evilcos.me)
 - [小土刀](http://wdxtub.com/)
@@ -92,6 +101,7 @@
 - [读思](http://read-think.com/)
 - [伯乐在线](http://www.jobbole.com)
 - [firewolf](https://www.firewolf.science)
+- [柳诺](https://liuchuo.net/)
 
 
 ## funny link
