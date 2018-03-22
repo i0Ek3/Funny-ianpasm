@@ -17,6 +17,7 @@ Hacktonish--原本是因为记错单词了，不过和hackintosh也挺相似，�
 - [tonymacx86](https://www.tonymacx86.com/)
 - [osx86](https://www.osx86.net)
 - [insanel](http://www.insanelymac.com)
+- [hackintosh zone](https://www.hackintosh.zone)
 - [威锋](https://bbs.feng.com/thread-htm-fid-102.html)
 - [bitbucket](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [itmanbu](https://www.itmanbu.com/appleacpiplatform.html)
