@@ -23,7 +23,15 @@
 
 
 
+## Github
+- [shields](http://shields.io)
+- [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [readme](https://github.com/guodongxiaren/README)
+
+
+
 ## Programing
+- [谷歌开源代码风格](http://zh-google-styleguide.readthedocs.io/en/latest/contents/)
 - c/c++
     - [en](http://en.cppreference.com/w/)
     - [zh](http://zh.cppreference.com/w/首页)
@@ -85,6 +93,10 @@
 ## Language
 - [Esperanto](https://lernu.net/en)
 - [byoungd](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
+
+
+## 仿真软件
+- [omnetpp](https://www.omnetpp.org/omnetpp)
 
 
 ## Blog
