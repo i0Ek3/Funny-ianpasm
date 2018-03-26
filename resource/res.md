@@ -111,9 +111,9 @@
 - [看到是缘 明白是福](http://truth.atspace.eu/)
 - [lucifr](https://lucifr.com/archives/)
 - [读思](http://read-think.com/)
-- [伯乐在线](http://www.jobbole.com)
 - [firewolf](https://www.firewolf.science)
 - [柳诺](https://liuchuo.net/)
+- [kn007](https://kn007.net)
 
 
 ## funny link
