@@ -101,6 +101,7 @@
 
 
 ## Blog
+- [酷壳](https://coolshell.cn)
 - [draveness](https://draveness.me/index)
 - [readhub](https://readhub.me)
 - [evilcos](http://evilcos.me)
@@ -237,6 +238,7 @@
 
 ## Algorithm
 - [leetcode](https://leetcode.com/problemset/all/)
+- [算法珠玑](https://www.gitbook.com/book/soulmachine/algorithm-essentials/details)
 - [识别算法](https://www.zhihu.com/question/20191727)
 
 
