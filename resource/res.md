@@ -37,7 +37,9 @@
     - [en](http://en.cppreference.com/w/)
     - [zh](http://zh.cppreference.com/w/首页)
 - [python](https://www.python.org)
+    - [Python教程](http://pythonguidecn.readthedocs.io/zh/latest/)
 - [go](https://golang.org)
+    - [the-way-to-go](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
 - [scala](http://www.scala-lang.org)
 - vala
     - [project-vala](https://wiki.gnome.org/Projects/Vala)
@@ -93,7 +95,7 @@
 
 ## Language
 - [Esperanto](https://lernu.net/en)
-- [byoungd](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
+- [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
 
 
 ## 仿真软件
