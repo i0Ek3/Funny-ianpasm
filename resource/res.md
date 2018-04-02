@@ -1,5 +1,18 @@
 # Funny Resources
 
+## Personal Site
+- [知乎](https://www.zhihu.com)
+- [Medium](https://medium.com)
+- [Twitter](https://twitter.com)
+- [XDA](https://www.xda-developers.com)
+- [V2EX](https://www.v2ex.com)
+- [Quora](https://www.quora.com)
+- [Reddit](https://www.reddit.com)
+- [stackexchange](https://stackexchange.com)
+- [stackoverflow](https://stackoverflow.com)
+
+
+
 ## Cyber Security
 - [vulhub](http://vulhub.org)
 - [Freebuf](http://www.freebuf.com/)
@@ -143,6 +156,7 @@
 ## Linux
 - [薄荷开源网](http://www.mintos.org)
 - [开源工厂](https://openingsource.org/)
+- [fosslinux](http://www.fosslinux.com)
 - [easylinuxtipsproject](https://sites.google.com/site/easylinuxtipsproject/)
 - [Elementarycn](https://elementaryos.cn/)
 - [deepin-pkg](http://packages.deepin.com/deepin/pool/non-free/d/)
