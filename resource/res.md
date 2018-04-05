@@ -12,6 +12,11 @@
 - [stackoverflow](https://stackoverflow.com)
 
 
+## Tech Site
+- [arstechnica](https://arstechnica.com)
+
+
+
 
 ## Cyber Security
 - [vulhub](http://vulhub.org)
@@ -59,6 +64,8 @@
     - [valadoc](https://valadoc.org)
 - [lisp](https://common-lisp.net)
 - [haskell](https://www.haskell.org)
+- Assembly
+    - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 
 
 
@@ -116,6 +123,7 @@
 
 
 ## Blog
+- [阮一峰](http://www.ruanyifeng.com/blog/)
 - [酷壳](https://coolshell.cn)
 - [draveness](https://draveness.me/index)
 - [readhub](https://readhub.me)
