@@ -117,7 +117,9 @@
 ## Language
 - [Esperanto](https://lernu.net/en)
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
-- [Spanishdict](http://www.spanishdict.com)
+- Spanish
+    - [Spanishdict](http://www.spanishdict.com)
+    - [forvo](https://zh.forvo.com/languages/es/)
 
 
 ## 仿真软件
