@@ -39,7 +39,7 @@
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
 - [bitcoin-on-nodejs](http://bitcoin-on-nodejs.ebookchain.org)
 - [精通比特币](http://zhibimo.com/read/wang-miao/mastering-bitcoin/)
-
+- [通俗易懂区块链](https://mp.weixin.qq.com/s/v-q3j3LeQLqyjnh1Ki-rnQ)
 
 
 ## Github
