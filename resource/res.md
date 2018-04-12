@@ -184,7 +184,7 @@
 - [LinuxStory](https://linuxstory.org/)
 - [cdimage](http://cdimage.ubuntu.com/)
 - [mirror4linux](https://mirrors.ustc.edu.cn/)
-- [Pop!_OS](https://system76.com/pop)
+- [Pop_OS](https://system76.com/pop)
 - [Linuxapps](https://www.opendesktop.org/s/Apps)
 - [UBports](https://wiki.ubports.com/wiki/How-to-install-Ubuntu-Touch-16.04 'Awesome UBports')
     - [porting](https://docs.ubuntu.com/phone/en/devices/porting-new-device)
@@ -196,6 +196,8 @@
 
 
 ## Code Online
+- [codingame](https://www.codingame.com/home)
+- [rails365](https://www.rails365.net)
 - [源码共读](https://ymgd.github.io/codereader/tag/)
 - [实验楼](https://www.shiyanlou.com/)
 - [慕课网](https://www.imooc.com/)
