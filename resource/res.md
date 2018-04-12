@@ -44,6 +44,7 @@
 
 ## Github
 - [hub](https://hub.github.com)
+- [legit](http://www.git-legit.org)
 - [shields](http://shields.io)
 - [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [readme](https://github.com/guodongxiaren/README)
@@ -127,6 +128,7 @@
 
 
 ## Blog
+- [dpdk](http://dpdk.org)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [酷壳](https://coolshell.cn)
 - [draveness](https://draveness.me/index)
