@@ -58,6 +58,7 @@
     - [zh](http://zh.cppreference.com/w/首页)
 - [python](https://www.python.org)
     - [Python教程](http://pythonguidecn.readthedocs.io/zh/latest/)
+    - [廖雪峰python3教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 - [go](https://golang.org)
     - [the-way-to-go](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
 - [scala](http://www.scala-lang.org)
@@ -71,6 +72,13 @@
     - [Read-World-Haskell](http://rwh.readthedocs.io/en/latest/index.html)
 - Assembly
     - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+
+
+
+## Linux Kernel
+- [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
+- [LKRG](http://www.openwall.com/lkrg/)
+- [内核之旅](http://www.kerneltravel.net)
 
 
 
@@ -266,9 +274,6 @@
 - [multibootusb](http://multibootusb.org/)
 - [Win-To-Go](https://docs.microsoft.com/zh-cn/previous-versions/windows/it-pro/windows-8.1-and-8/hh831833(v=ws.11))
 
-## Linux Kernel
-- [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
-- [LKRG](http://www.openwall.com/lkrg/)
 
 
 ## Algorithm
