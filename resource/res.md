@@ -65,7 +65,10 @@
     - [project-vala](https://wiki.gnome.org/Projects/Vala)
     - [valadoc](https://valadoc.org)
 - [lisp](https://common-lisp.net)
+    - [ANSI-Common-Lisp](http://acl.readthedocs.io/en/latest/)
+    - [on-lisp](http://www.ituring.com.cn/book/1979)
 - [haskell](https://www.haskell.org)
+    - [Read-World-Haskell](http://rwh.readthedocs.io/en/latest/index.html)
 - Assembly
     - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 
