@@ -65,6 +65,17 @@
     - 暂无其他问题
 
 
+## 2018-04-14 EFI-lastest-v1/EFI-ym2008-lastest-v1
+
+- EFI-lastest-v1
+    - 更新至10.13.4
+
+- EFI-ym2008-lastest-v1
+    - 更新至10.13.4
+    - 炫龙A40L-741可直接使用，已经替换相关文件，如需了解更多请看原作者的介绍
+
+
+
 
 
 # Trouble
