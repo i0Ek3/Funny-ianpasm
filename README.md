@@ -21,6 +21,13 @@ The other part of this project is my favorite website and movie resources and so
 This part is about my hackintosh experience on Shinelon A40L-741 QTS5.
 
 
+
+## crx
+
+In crx/ I offered you some extension files to make your Chrome more powerful and effiency.
+
+
+
 And I hope you can find your enjoy in here.
 
 
