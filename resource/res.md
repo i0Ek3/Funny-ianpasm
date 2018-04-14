@@ -17,7 +17,6 @@
 
 
 
-
 ## Cyber Security
 - [vulhub](http://vulhub.org)
 - [Freebuf](http://www.freebuf.com/)
@@ -71,7 +70,7 @@
 - [haskell](https://www.haskell.org)
     - [Read-World-Haskell](http://rwh.readthedocs.io/en/latest/index.html)
 - Assembly
-    - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+    - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 
 
@@ -97,14 +96,17 @@
 - [cn-data](https://github.com/cn)
 
 
+
 ## Oneline Editor
 - [Google Doc](https://docs.google.com/document/u/0/?authuser=0&usp=docs_web)
+
 
 
 ## Beautiful Pictures
 - [octodex](https://octodex.github.com)
 - [Unsplash](https://unsplash.com/)
 - [wallhaven](https://alpha.wallhaven.cc)
+
 
 
 ## Movie
@@ -114,6 +116,7 @@
 - [人人影视](http://www.yyets.com/)
 - [天天美剧](http://www.msj1.com/)
 - [六维空间](http://bt.neu6.edu.cn 'You need IPv6!')
+
 
 
 ## Music
@@ -126,6 +129,7 @@
 - MOZIK
 
 
+
 ## Language
 - [Esperanto](https://lernu.net/en)
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
@@ -134,8 +138,10 @@
     - [forvo](https://zh.forvo.com/languages/es/)
 
 
+
 ## 仿真软件
 - [omnetpp](https://www.omnetpp.org/omnetpp)
+
 
 
 ## Blog
@@ -158,7 +164,9 @@
 - [kn007](https://kn007.net)
 
 
+
 ## funny link
+- [pi-hole](https://pi-hole.net/)
 - [sideidea](http://sideidea.com)
 - [ibm](https://www.ibm.com/developerworks/cn/)
 - [codelf](http://unbug.github.io/codelf/)
