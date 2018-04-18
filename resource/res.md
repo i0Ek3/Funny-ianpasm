@@ -70,6 +70,8 @@
     - [on-lisp](http://www.ituring.com.cn/book/1979)
 - [haskell](https://www.haskell.org)
     - [Read-World-Haskell](http://rwh.readthedocs.io/en/latest/index.html)
+- [rust](https://www.rust-lang.org/en-US/index.html)
+    
 - Assembly
     - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
@@ -100,7 +102,8 @@
 
 ## Oneline Editor
 - [Google Doc](https://docs.google.com/document/u/0/?authuser=0&usp=docs_web)
-
+- [uzer](https://uzer.me)
+- [简历制作](https://cvmkr.com/?lang=zh)
 
 
 ## Beautiful Pictures
