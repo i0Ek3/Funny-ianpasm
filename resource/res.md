@@ -12,6 +12,8 @@
 - [stackoverflow](https://stackoverflow.com)
 
 
+
+
 ## Tech Site
 - [arstechnica](https://arstechnica.com)
 
@@ -40,6 +42,7 @@
 - [bitcoin-on-nodejs](http://bitcoin-on-nodejs.ebookchain.org)
 - [精通比特币](http://zhibimo.com/read/wang-miao/mastering-bitcoin/)
 - [通俗易懂区块链](https://mp.weixin.qq.com/s/v-q3j3LeQLqyjnh1Ki-rnQ)
+
 
 
 ## Github
@@ -71,9 +74,14 @@
 - [haskell](https://www.haskell.org)
     - [Read-World-Haskell](http://rwh.readthedocs.io/en/latest/index.html)
 - [rust](https://www.rust-lang.org/en-US/index.html)
-    
-- Assembly
+- [erlang](http://www.erlang.org)    
+- assembly
     - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+- react native
+    - [zh](https://reactnative.cn/docs/0.51/getting-started.html#content)
+    - [en]()
+    - [react入门](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
+    - [react相关](https://www.tuicool.com/articles/zaInUbA)
 
 
 
@@ -103,7 +111,12 @@
 ## Oneline Editor
 - [Google Doc](https://docs.google.com/document/u/0/?authuser=0&usp=docs_web)
 - [uzer](https://uzer.me)
-- [简历制作](https://cvmkr.com/?lang=zh)
+- 简历
+    - [简历制作](https://cvmkr.com/?lang=zh)
+    - [冷熊简历](http://cv.ftqq.com)
+    - [如何写简历](https://juejin.im/book/59e17a7ff265da430629cc4e/section/59faec225188252abc5db42c)
+    - [简历模板](https://github.com/geekcompany/ResumeSample)
+
 
 
 ## Beautiful Pictures
@@ -149,6 +162,8 @@
 
 
 ## Blog
+- [方糖](http://ftqq.com/程序员跳槽全攻略/README.adoc)
+    - [方糖全栈课](https://quanzhanke.github.io)
 - [programthink](https://program-think.blogspot.com 'Recommend')
 - [dpdk](http://dpdk.org)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
