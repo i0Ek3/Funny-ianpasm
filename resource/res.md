@@ -1,5 +1,11 @@
 # Funny Resources
 
+## Good Gitbook
+- [greyhame](https://chrislinn.gitbooks.io/greyhame-2017/content/)
+- [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
+- [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
+
+
 ## Personal Site
 - [知乎](https://www.zhihu.com)
 - [Medium](https://medium.com)
@@ -13,14 +19,9 @@
 
 
 
-
-## Tech Site
-- [arstechnica](https://arstechnica.com)
-
-
-
 ## Cyber Security
 - [看雪知识库](https://www.kanxue.com/chm.htm)
+- [91RI](http://www.91ri.org)
 - [vulhub](http://vulhub.org)
 - [Freebuf](http://www.freebuf.com/)
 - [SECWIKI](https://www.sec-wiki.com/)
@@ -82,6 +83,7 @@
     - [en]()
     - [react入门](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
     - [react相关](https://www.tuicool.com/articles/zaInUbA)
+    - If you see error with `Unexpected end of JSON input while parsing near`, please run command : `npm cache clean --force`, then run you original command.
 
 
 
