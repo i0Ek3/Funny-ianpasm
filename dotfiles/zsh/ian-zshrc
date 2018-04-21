@@ -2,13 +2,13 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH=/Users/ianpasm/.oh-my-zsh
+export ZSH=/Users/ianpasm/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="robbyrussell"
-# ZSH_THEME="agnoster"
+ ZSH_THEME="robbyrussell"
+# ZSH_THEME="eastwood"
 
 # Set list of themes to load
 # Setting this variable when ZSH_THEME=random
@@ -31,7 +31,7 @@ ZSH_THEME="robbyrussell"
 export UPDATE_ZSH_DAYS=7
 
 # Uncomment the following line to disable colors in ls.
-DISABLE_LS_COLORS="false"
+#DISABLE_LS_COLORS="true"
 
 # Uncomment the following line to disable auto-setting terminal title.
 # DISABLE_AUTO_TITLE="true"
@@ -63,7 +63,6 @@ plugins=(
   git
   autojump
   zsh-syntax-highlighting
-  extract
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -98,8 +97,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # alias
-alias fuck='sudo apt update && sudo apt upgrade'
-alias ul='sudo rm /var/lib/apt/lists/lock'
 alias c='clear'
 alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
@@ -113,14 +110,96 @@ alias ping='ping -c 5'
 alias fastping='ping -c 100 -s.2'
 alias ports='netstat -tulanp'
 alias wget='wget -c'
+alias git='hub'
 
 # creatw new command
 alias path='echo -e ${PATH//:/\\n}'
 alias now='date'
 
 # install autojump
-[[ -s /home/ianpasm/.autojump/etc/profile.d/autojump.sh  ]] && source /home/ianpasm/.autojump/etc/profile.d/autojump.sh
+[[ -s $HOME.autojump/etc/profile.d/autojump.sh  ]] && source $HOME.autojump/etc/profile.d/autojump.sh
 autoload -U compinit && compinit -u
 
 
-source ~/.oh-my-zsh/plugins/incr/incr*.zsh
+#source ~/.oh-my-zsh/plugins/incr/incr*.zsh
+
+# go env
+export GOPATH=$HOME/go
+export GOROOT=/usr/local/opt/go/libexec
+export PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:$GOROOT/bin
+
+
+## Github repo create on terminal
+grc() 
+{
+  repo_name=$1
+ 
+  dir_name=`basename $(pwd)`
+ 
+  if [ "$repo_name" = "" ]; then
+    echo "Repo name (hit enter to use '$dir_name')?"
+    read repo_name
+  fi
+ 
+  if [ "$repo_name" = "" ]; then
+    repo_name=$dir_name
+  fi
+ 
+  username=`git config github.user`
+  if [ "$username" = "" ]; then
+    echo "Could not find username, run 'git config --global github.user <username>'"
+    invalid_credentials=1
+  fi
+ 
+  token=`git config github.token`
+  if [ "$token" = "" ]; then
+    echo "Could not find token, run 'git config --global github.token <token>'"
+    invalid_credentials=1
+  fi
+ 
+  if [ "$invalid_credentials" == "1" ]; then
+    return 1
+  fi
+ 
+  echo -n "Creating Github repository '$repo_name' ..."
+  curl -u "$username:$token" https://api.github.com/user/repos -d '{"name":"'$repo_name'"}' > /dev/null 2>&1
+  echo " done."
+ 
+  echo -n "Pushing local code to remote ..."
+  git remote add origin git@github.com:$username/$repo_name.git > /dev/null 2>&1
+  git push -u origin master > /dev/null 2>&1
+  echo " done."
+}
+
+
+## Simplize extract command
+ex ()
+{
+  if [ -f $1 ] ; then
+    case $1 in
+      *.tar.bz2)   tar xjf $1   ;;
+      *.tar.gz)    tar xzf $1   ;;
+      *.bz2)       bunzip2 $1   ;;
+      *.rar)       unrar x $1     ;;
+      *.gz)        gunzip $1    ;;
+      *.tar)       tar xf $1    ;;
+      *.tbz2)      tar xjf $1   ;;
+      *.tgz)       tar xzf $1   ;;
+      *.zip)       unzip $1     ;;
+      *.Z)         uncompress $1;;
+      *.7z)        7z x $1      ;;
+      *)           echo "'$1' cannot be extracted via ex()" ;;
+    esac
+  else
+    echo "'$1' is not a valid file"
+  fi
+}
+
+
+## Create folder then cd in it
+function mkdircd(){
+    mkdir -p "$@" && eval cd "\"\$$#\"";
+}
+
+
