@@ -90,6 +90,8 @@
 ## Linux Kernel
 - [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
 - [LKRG](http://www.openwall.com/lkrg/)
+- [LKML](https://lkml.org)
+- [kernel-doc](https://www.kernel.org/doc/html/latest/)
 - [内核之旅](http://www.kerneltravel.net)
 
 
