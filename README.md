@@ -26,6 +26,9 @@ This part is about my hackintosh experience on Shinelon A40L-741 QTS5.
 
 In crx/ I offered you some extension files to make your Chrome more powerful and effiency.
 
+## miraculous
+
+Just my miraculous point, maybe code it when have time or ability.
 
 
 And I hope you can find your enjoy in here.
