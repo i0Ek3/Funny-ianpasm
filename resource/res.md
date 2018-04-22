@@ -20,6 +20,12 @@
 
 
 ## Cyber Security
+- [4hou](http://www.4hou.com/info/news/7061.html)
+- [securoty-of-dark](https://direclown.wordpress.com)
+- [web-security-learning](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
+- [OWASP](http://www.owasp.org.cn/owasp-project/2017-owasp-top-10)
+- [greyhome](https://chrislinn.gitbooks.io/greyhame-2017/)
+- [知道创宇技能表v3.1](http://blog.knownsec.com/Knownsec_RD_Checklist/index.html)
 - [看雪知识库](https://www.kanxue.com/chm.htm)
 - [91RI](http://www.91ri.org)
 - [vulhub](http://vulhub.org)
@@ -75,6 +81,7 @@
 - [haskell](https://www.haskell.org)
     - [Read-World-Haskell](http://rwh.readthedocs.io/en/latest/index.html)
 - [rust](https://www.rust-lang.org/en-US/index.html)
+    - [rust-guide](https://doc.rust-lang.org/book/second-edition/ch01-01-installation.html)
 - [erlang](http://www.erlang.org)    
 - assembly
     - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
@@ -166,6 +173,8 @@
 
 
 ## Blog
+- [chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
+- [zsythink](http://www.zsythink.net/archives/tag/awk/)
 - [方糖](http://ftqq.com/程序员跳槽全攻略/README.adoc)
     - [方糖全栈课](https://quanzhanke.github.io)
 - [programthink](https://program-think.blogspot.com 'Recommend')
@@ -190,6 +199,7 @@
 
 
 ## funny link
+- [bugzilla](https://bugzilla.readthedocs.io/en/latest/index.html)
 - [pi-hole](https://pi-hole.net/)
 - [sideidea](http://sideidea.com)
 - [ibm](https://www.ibm.com/developerworks/cn/)
@@ -213,6 +223,7 @@
 ## Linux
 - [薄荷开源网](http://www.mintos.org)
 - [开源工厂](https://openingsource.org/)
+- [kernelmirror](https://mirrors.kernel.org)
 - [fosslinux](http://www.fosslinux.com)
 - [easylinuxtipsproject](https://sites.google.com/site/easylinuxtipsproject/)
 - [Elementarycn](https://elementaryos.cn/)
