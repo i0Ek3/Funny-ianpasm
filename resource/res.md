@@ -20,6 +20,13 @@
 
 
 ## Cyber Security
+- [GPG](https://www.gnupg.org/index.html)
+    - [加密邮件](https://help.ubuntu.com/community/GnuPrivacyGuardHowto#Reading_OpenPGP_E-mail)
+    - [GPG教程](http://www.ruanyifeng.com/blog/2013/07/gpg.html '内容稍有过时，体现在命令上')
+    - [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) 
+    - [handbook](https://www.gnupg.org/gph/en/manual.html)
+    - [how-to](https://www.gnupg.org/howtos/zh/index.html)
+- [pentest-standard](http://www.pentest-standard.org/index.php/Main_Page)
 - [4hou](http://www.4hou.com/info/news/7061.html)
 - [securoty-of-dark](https://direclown.wordpress.com)
 - [web-security-learning](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
