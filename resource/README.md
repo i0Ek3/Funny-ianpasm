@@ -1,9 +1,14 @@
 # Funny Resources
 
-## Good Gitbook
+Something in here is my collections for funny resource which includes Linux/Security/Language/Movie/Music etc., I will update this resources all the time until I needn't this(impossible), just enjoy yourself.
+
+
+## Good book
 - [greyhame](https://chrislinn.gitbooks.io/greyhame-2017/content/)
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
+- [ES6](http://es6.ruanyifeng.com)
+
 
 
 ## Personal Site
