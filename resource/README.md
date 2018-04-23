@@ -25,6 +25,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Cyber Security
+- [schneier](https://www.schneier.com/blog/archives/2015/07/hacking_team_is.html)
 - [GPG](https://www.gnupg.org/index.html)
     - [加密邮件](https://help.ubuntu.com/community/GnuPrivacyGuardHowto#Reading_OpenPGP_E-mail)
     - [GPG教程](http://www.ruanyifeng.com/blog/2013/07/gpg.html '内容稍有过时，体现在命令上')
@@ -185,6 +186,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Blog
+- [skywind](http://www.skywind.me/blog/)
 - [chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
 - [zsythink](http://www.zsythink.net/archives/tag/awk/)
 - [方糖](http://ftqq.com/程序员跳槽全攻略/README.adoc)
@@ -298,6 +300,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Proxy
+- [privoxy](http://www.privoxy.org)
 - [ShadowsocksCustom](https://portal.shadowsocks.la)
 - [PortsClients4SS](https://github.com/shadowsocks/shadowsocks/wiki/Ports-and-Clients)
 - [shadowsocks.org](http://shadowsocks.org/en/index.html)
