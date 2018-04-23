@@ -31,6 +31,12 @@ In crx/ I offered you some extension files to make your Chrome more powerful and
 Just my miraculous point, maybe code it when have time or ability.
 
 
+## notes
+
+Just my learning notes for what I interesting.
+
+
+
 And I hope you can find your enjoy in here.
 
 
