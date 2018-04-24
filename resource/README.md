@@ -71,6 +71,16 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [shields](http://shields.io)
 - [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [readme](https://github.com/guodongxiaren/README)
+- [git-cmd-train](https://try.github.io/levels/1/challenges/1)
+
+
+
+## Coding
+- [设计模式之MM](https://www.jianshu.com/p/84f19e25aeac)
+- [shell](http://www.freebuf.com/articles/system/147768.html)
+
+
+
 
 
 
@@ -104,6 +114,10 @@ Something in here is my collections for funny resource which includes Linux/Secu
     - [react入门](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
     - [react相关](https://www.tuicool.com/articles/zaInUbA)
     - If you see error with `Unexpected end of JSON input while parsing near`, please run command : `npm cache clean --force`, then run you original command.
+- [vim](https://www.vim.org)
+    - [vim下配置c/c++](http://www.skywind.me/blog/archives/2084)
+    - [vim-adventures](https://vim-adventures.com)
+    - [coolshell-vim](https://coolshell.cn/articles/5426.html)
 
 
 
