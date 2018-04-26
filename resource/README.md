@@ -24,6 +24,14 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 
+## Download for Mac
+- [objective-see](https://objective-see.com/index.html)
+- [malwarebytes4mac](https://www.malwarebytes.com)
+- [xclient](http://xclient.info/?t=680034e137bc7cc9b41bad81241e03e932425016)
+
+
+
+
 ## Cyber Security
 - [schneier](https://www.schneier.com/blog/archives/2015/07/hacking_team_is.html)
 - [GPG](https://www.gnupg.org/index.html)
@@ -32,6 +40,8 @@ Something in here is my collections for funny resource which includes Linux/Secu
     - [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) 
     - [handbook](https://www.gnupg.org/gph/en/manual.html)
     - [how-to](https://www.gnupg.org/howtos/zh/index.html)
+    - [createing-the-perfect-gpg-keypair](https://alexcabal.com/creating-the-perfect-gpg-keypair/)
+    
 - [pentest-standard](http://www.pentest-standard.org/index.php/Main_Page)
 - [4hou](http://www.4hou.com/info/news/7061.html)
 - [securoty-of-dark](https://direclown.wordpress.com)
