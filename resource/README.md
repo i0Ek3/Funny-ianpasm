@@ -4,6 +4,8 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Good book
+
+- [程序员跳槽全攻略](http://ftqq.com/程序员跳槽全攻略/README.adoc)
 - [greyhame](https://chrislinn.gitbooks.io/greyhame-2017/content/)
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
@@ -213,7 +215,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [skywind](http://www.skywind.me/blog/)
 - [chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
 - [zsythink](http://www.zsythink.net/archives/tag/awk/)
-- [方糖](http://ftqq.com/程序员跳槽全攻略/README.adoc)
+- [方糖](http://ftqq.com/)
     - [方糖全栈课](https://quanzhanke.github.io)
 - [programthink](https://program-think.blogspot.com 'Recommend')
 - [dpdk](http://dpdk.org)
