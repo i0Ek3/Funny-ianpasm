@@ -35,6 +35,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Cyber Security
+- [腾讯玄武实验室](https://xlab.tencent.com/cn/)
 - [schneier](https://www.schneier.com/blog/archives/2015/07/hacking_team_is.html)
 - [GPG](https://www.gnupg.org/index.html)
     - [加密邮件](https://help.ubuntu.com/community/GnuPrivacyGuardHowto#Reading_OpenPGP_E-mail)
@@ -130,6 +131,10 @@ Something in here is my collections for funny resource which includes Linux/Secu
     - [vim下配置c/c++](http://www.skywind.me/blog/archives/2084)
     - [vim-adventures](https://vim-adventures.com)
     - [coolshell-vim](https://coolshell.cn/articles/5426.html)
+- [markdown](https://www.jianshu.com/p/20e82ddb37cb)
+    - [Macdown](https://macdown.uranusjr.com)
+    - [Mou](http://25.io/mou/)
+
 
 
 
