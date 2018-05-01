@@ -33,6 +33,17 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 
+## Tech Site
+- [CSDN极客头条](http://geek.csdn.net)
+- [开发者头条](https://toutiao.io/)
+- [开源中国](https://www.oschina.net/)
+- [READHUB](https://readhub.me/)
+- [伯乐头条](http://www.jobbole.com/)
+- []()
+
+
+
+
 
 ## Cyber Security
 - [腾讯玄武实验室](https://xlab.tencent.com/cn/)
@@ -217,6 +228,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Blog
+- [Jerry Qu](https://imququ.com)
 - [skywind](http://www.skywind.me/blog/)
 - [chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
 - [zsythink](http://www.zsythink.net/archives/tag/awk/)
