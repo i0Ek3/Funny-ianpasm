@@ -381,6 +381,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 ## Algorithm
 - [leetcode](https://leetcode.com/problemset/all/)
 - [算法珠玑](https://www.gitbook.com/book/soulmachine/algorithm-essentials/details)
+- [ALGS4](https://algs4.cs.princeton.edu/home/)
 - [识别算法](https://www.zhihu.com/question/20191727)
 
 
