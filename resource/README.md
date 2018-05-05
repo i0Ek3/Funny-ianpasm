@@ -39,7 +39,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [开源中国](https://www.oschina.net/)
 - [READHUB](https://readhub.me/)
 - [伯乐头条](http://www.jobbole.com/)
-- []()
+- [Segmentfault](https://segmentfault.com)
 
 
 
@@ -164,6 +164,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Third Rom
+- [AOSPEX](https://downloads.aospextended.com)
 - [AOSIP](https://get.aosiprom.com/shamu/)
 - [AOSCP](http://get.cypheros.co)
 - [Mokee](https://download.mokeedev.com)
