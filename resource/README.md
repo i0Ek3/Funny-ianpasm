@@ -39,7 +39,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [开源中国](https://www.oschina.net/)
 - [READHUB](https://readhub.me/)
 - [伯乐头条](http://www.jobbole.com/)
-- []()
+- [Segmentfault](https://segmentfault.com)
 
 
 
