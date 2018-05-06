@@ -13,6 +13,23 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 
+## Book Community
+- [异步社区](https://www.epubit.com)
+- [图灵社区](http://www.ituring.com.cn)
+
+
+
+## Search Engine
+- [Learn-anything](https://learn-anything.xyz)
+- [SECNAV](http://secnav.dropsec.xyz)
+- [Gitnavi](http://www.gitnavi.com)
+- [Duckduckgo]()
+- [Zoomeye]()
+- [Shodan]()
+- []()
+
+
+
 ## Personal Site
 - [知乎](https://www.zhihu.com)
 - [Medium](https://medium.com)
@@ -39,7 +56,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [开源中国](https://www.oschina.net/)
 - [READHUB](https://readhub.me/)
 - [伯乐头条](http://www.jobbole.com/)
-- []()
+- [Segmentfault](https://segmentfault.com)
 
 
 
