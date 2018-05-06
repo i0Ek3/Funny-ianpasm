@@ -181,6 +181,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Third Rom
+- [AOSPEX](https://downloads.aospextended.com)
 - [AOSIP](https://get.aosiprom.com/shamu/)
 - [AOSCP](http://get.cypheros.co)
 - [Mokee](https://download.mokeedev.com)
