@@ -1,5 +1,17 @@
 # Funny-ianpasm
 
+Funny-ianpasm are my useful config files and something what I interesting.
+
+## Contents
+
+* [dotfiles](#dotfiles)
+* [resources](#resources)
+* [hackintosh](#hackintosh)
+* [crx](#crx)
+* [miraculous](#miraculous)
+* [notes](#notes)
+
+
 ## dotfiles
 
 The vimrc file in this project is based on [chxuan](https://github.com/chxuan)'s vimplus,I just add some function and make some changes in it for my habbit,add update it again in days to come...
