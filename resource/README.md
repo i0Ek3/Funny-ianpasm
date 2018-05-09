@@ -2,8 +2,49 @@
 
 Something in here is my collections for funny resource which includes Linux/Security/Language/Movie/Music etc., I will update this resources all the time until I needn't this(impossible), just enjoy yourself.
 
+# Contents
+* [Good Books](#Good Books)
+* [Book Community](#Book Community)
+* [Search Engine](#Search Engine)
+* [Personal Site](#Personal Site)
+* [Tech Site](#Tech Site)
+* [Download for Mac](#Download for Mac)
+* [Security OS](#Security OS)
+* [Cyber Security](#Cyber Security)
+* [Blockchian](#Blockchain)
+* [Github](#Github)
+* [Programming](#Programming)
+* [Linux Kernel](#Linux Kernel)
+* [Third ROM](#Third ROM)
+* [Online Editor](#Online Editor)
+* [Picture](#Picture)
+* [Movie](#Movie)
+* [Music](#Music)
+* [Language](#Language)
+* [Blog](#Blog)
+* [Funny Link](#Funny Link)
+* [Linux](#Linux)
+* [Code Online](#Code Online)
+* [Icons](#Icons)
+* [Hosts](#Hosts)
+* [Proxy](#Proxy)
+* [Boot](#Boot)
+* [Algorithm](#Algorithm)
+* [Complain](#Complain)
+* [Speed Test](#Speed Test)
+* [Other](#Other)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
 
-## Good book
+
+
+
+## Good Books
+- [Intellij-idea-tutorial](https://youmeek.gitbooks.io/intellij-idea-tutorial/content/)
 - [笨办法学Vimscript](http://learnvimscriptthehardway.onefloweroneworld.com)
 - [Docker入门](https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html)
 - [程序员跳槽全攻略](http://ftqq.com/程序员跳槽全攻略/README.adoc)
@@ -24,10 +65,9 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [Learn-anything](https://learn-anything.xyz)
 - [SECNAV](http://secnav.dropsec.xyz)
 - [Gitnavi](http://www.gitnavi.com)
-- [Duckduckgo]()
-- [Zoomeye]()
-- [Shodan]()
-- []()
+- [Duckduckgo](https://duckduckgo.com)
+- [Zoomeye](http://www.zoomeye.org)
+- [Shodan](https://shodan.io)
 
 
 
@@ -41,6 +81,8 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [Reddit](https://www.reddit.com)
 - [stackexchange](https://stackexchange.com)
 - [stackoverflow](https://stackoverflow.com)
+- [bitbucket](https://bitbucket.org/product)
+- [TED](https://www.ted.com/)
 
 
 
@@ -61,13 +103,12 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 
-## Security System
+## Security OS
 - [windwos](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines)
 - [parrot](https://www.parrotsec.org)
 - [kali](https://www.kali.org)
 - [blackarch](https://blackarch.org)
 - [backbox](https://backbox.org)
-
 
 
 
@@ -124,15 +165,10 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 
-## Coding
-- [设计模式之MM](https://www.jianshu.com/p/84f19e25aeac)
-- [shell](http://www.freebuf.com/articles/system/147768.html)
-
-
-
-
 ## Programing
 - [谷歌开源代码风格](http://zh-google-styleguide.readthedocs.io/en/latest/contents/)
+- [设计模式](https://www.jianshu.com/p/84f19e25aeac)
+- [shell](http://www.freebuf.com/articles/system/147768.html)
 - c/c++
     - [en](http://en.cppreference.com/w/)
     - [zh](http://zh.cppreference.com/w/首页)
@@ -171,7 +207,6 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 
-
 ## Linux Kernel
 - [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
 - [LKRG](http://www.openwall.com/lkrg/)
@@ -181,7 +216,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 
-## Third Rom
+## Third ROM
 - [AOSPEX](https://downloads.aospextended.com)
 - [AOSIP](https://get.aosiprom.com/shamu/)
 - [AOSCP](http://get.cypheros.co)
@@ -190,11 +225,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [sailfish os](http://images.devaamo.fi)
 - [Oreo for bacon](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
     - [download](https://androidfilehost.com/?w=files&flid=211773)
-
-
-
-## China
-- [cn-data](https://github.com/cn)
+- [MIUI.en](http://en.miui.com/a-234.html)
 
 
 
@@ -209,7 +240,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 
-## Beautiful Pictures
+## Picture
 - [octodex](https://octodex.github.com)
 - [Unsplash](https://unsplash.com/)
 - [wallhaven](https://alpha.wallhaven.cc)
@@ -220,6 +251,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [bd-film](http://www.bd-film.co/)
 - [bt0](http://bt0.com/)
 - [rarbg](https://rarbg.is/torrents.php)
+- [阳光电影](http://ygdy8.com)
 - [人人影视](http://www.yyets.com/)
 - [天天美剧](http://www.msj1.com/)
 - [六维空间](http://bt.neu6.edu.cn 'You need IPv6!')
@@ -246,11 +278,6 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 
-## 仿真软件
-- [omnetpp](https://www.omnetpp.org/omnetpp)
-
-
-
 ## Blog
 - [Jerry Qu](https://imququ.com)
 - [skywind](http://www.skywind.me/blog/)
@@ -259,11 +286,9 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [方糖](http://ftqq.com/)
     - [方糖全栈课](https://quanzhanke.github.io)
 - [programthink](https://program-think.blogspot.com 'Recommend')
-- [dpdk](http://dpdk.org)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [酷壳](https://coolshell.cn)
 - [draveness](https://draveness.me/index)
-- [readhub](https://readhub.me)
 - [evilcos](http://evilcos.me)
 - [小土刀](http://wdxtub.com/)
 - [老D](https://laod.cn/)
@@ -277,29 +302,32 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [firewolf](https://www.firewolf.science)
 - [柳诺](https://liuchuo.net/)
 - [kn007](https://kn007.net)
+- [Free JetBrains License Servers](http://xidea.online) **推荐**
+- [小众软件](https://www.appinn.com)
+- [MSDN](https://msdn.itellyou.cn/)
+- [萝卜头](http://bbs.luobotou.org/)
+- [雷锋网](https://www.leiphone.com)
+- [远景](http://bbs.pcbeta.com/)
 
 
 
-## funny link
+## Funny Link
+- [readhub](https://readhub.me)
+- [开发者速查表](http://devhints.cn/)
+- [asciinema](https://asciinema.org/)
+- [npm+electron](http://blog.csdn.net/upc_xbt/article/details/53342129)
 - [bugzilla](https://bugzilla.readthedocs.io/en/latest/index.html)
-- [pi-hole](https://pi-hole.net/)
 - [sideidea](http://sideidea.com)
 - [ibm](https://www.ibm.com/developerworks/cn/)
 - [codelf](http://unbug.github.io/codelf/)
 - [docker store](https://store.docker.com/search?q=&source=verified&type=image)
 - [when to buy apple products](https://buyersguide.macrumors.com/#Mac)
-- [Free JetBrains License Servers](http://xidea.online) **推荐**
 - [github使用教程](https://www.zhihu.com/question/20070065)
 - [jekyll模板](http://jekyllthemes.org)
 - [hexo.io](https://hexo.io/zh-cn/docs/setup.html)
 - [freepik](https://www.freepik.com/)
-- [小众软件](https://www.appinn.com)
 - [music online](http://music.laod.cn/)
-- [MSDN](https://msdn.itellyou.cn/)
-- [萝卜头](http://bbs.luobotou.org/)
-- [雷锋网](https://www.leiphone.com)
-- [远景](http://bbs.pcbeta.com/)
-- [bitbucket](https://bitbucket.org/product)
+
 
 
 ## Linux
@@ -331,6 +359,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [ubuntupit](https://www.ubuntupit.com)
 
 
+
 ## Code Online
 - [webassembly](https://webassembly.studio)
 - [codingame](https://www.codingame.com/home)
@@ -342,10 +371,10 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [Coursera](https://www.coursera.org/)
 - [可汗学院](https://www.khanacademy.org/)
 - [mooc](https://mooc.guokr.com/)
-- [TED](https://www.ted.com/)
 
 
-## icons theme
+
+## Icons
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 - [Arc](https://github.com/horst3180/arc-theme)
 - [Adapta-gtk](https://github.com/adapta-project/adapta-gtk-theme)
@@ -358,13 +387,16 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [Flat-color](https://github.com/icons8/flat-color-icons)
 
 
-## hosts
+
+# Hosts
+- [pi-hole](https://pi-hole.net/)
 - [racaljk-hosts](https://github.com/racaljk/hosts)
 - [HTTPS代理IP](http://www.xicidaili.com/wn/)
 - [Tor](https://www.torproject.org/index.html.en)
 - [自建ss服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 - [91yun](https://www.91yun.co/)
 - [doub](https://doub.bid/)
+
 
 
 ## Proxy
@@ -381,21 +413,10 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [IP千里眼](https://verybat.com)
 - [sockshub](http://sockshub.net/index.php)
 - [luminati](https://luminati.io)
-- []()
-- []()
-- []()
-- []()
 
 
-## English site
-- [twitch](https://www.twitch.tv/)
-- [hancknews](https://news.ycombinator.com/news)
-- [stackoverflow](https://stackoverflow.com/)
-- [quora](https://www.quora.com/)
-- [reddit](https://www.reddit.com/)
 
-
-## boot
+## Boot
 - [symless](https://symless.com/synergy)
 - [usbbootable](https://rufus.akeo.ie/)
 - [multibootusb](http://multibootusb.org/)
@@ -410,27 +431,27 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [识别算法](https://www.zhihu.com/question/20191727)
 
 
-## 美国虚拟电话注册
-- [TextNow](https://www.textnow.com/)
 
-
-## 12306抢票
-- [分流抢票](http://www.12306bypass.com/)
-
-## npm + node + eletron
-- [npm+electron](http://blog.csdn.net/upc_xbt/article/details/53342129)
-
-## Xiaomi International Rom
-- [MIUI.en](http://en.miui.com/a-234.html)
-
-## other
-- [开发者速查表](http://devhints.cn/)
-- [asciinema](https://asciinema.org/)
-
-## 宽带测速
+## Speed Test
 - [Speedtest](http://www.speedtest.net/)
 - [电信测速](http://service.sh.189.cn/service/speedNew)
 
-## 投诉
+
+
+## Complain
 - [工信部申诉](http://www.chinatcc.gov.cn:8080/cms/shensus/)
 - [12321网络不良与垃圾信息举报受理中心](https://www.12321.cn)
+
+
+
+## Other
+- [TextNow](https://www.textnow.com/) Virtual telephone.
+- [分流抢票](http://www.12306bypass.com/) Third client for 12306er.
+- [cn-data](https://github.com/cn)
+- [omnetpp](https://www.omnetpp.org/omnetpp) Simulate software.
+
+
+
+
+
+
