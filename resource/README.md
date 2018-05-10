@@ -33,7 +33,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 * [Complain](#Complain)
 * [Speed Test](#Speed Test)
 * [Other](#Other)
-
+* [License](##License)
 
 
 
@@ -435,6 +435,11 @@ Something in here is my collections for funny resource which includes Linux/Secu
 ## Complain
 - [工信部申诉](http://www.chinatcc.gov.cn:8080/cms/shensus/)
 - [12321网络不良与垃圾信息举报受理中心](https://www.12321.cn)
+
+
+## License
+- [MIT](https://choosealicense.com/licenses/mit/)
+- [choosealicense](https://choosealicense.com)
 
 
 
