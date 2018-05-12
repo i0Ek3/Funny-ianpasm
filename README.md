@@ -14,7 +14,7 @@ Funny-ianpasm are my useful config files and something what I interesting.
 
 ## dotfiles
 
-> The vimrc file in this project is based on [chxuan](https://github.com/chxuan)'s vimplus,I just add some function and make some changes in it for my habbit,add update it again in days to come, here I offered you a (bundle.zip|密码:1vgv)[https://pan.baidu.com/s/1fjtgew0Ba1MHid4DQWC5Vg] to set vim extensions quickly. The tmux config files based on dozen who's name is gpakosz,he is really awesome.
+> The vimrc file in this project is based on [chxuan](https://github.com/chxuan) 's vimplus,I just add some function and make some changes in it for my habbit,add update it again in days to come, here I offered you a [bundle.zip|密码:1vgv](https://pan.baidu.com/s/1fjtgew0Ba1MHid4DQWC5Vg) to set vim extensions quickly. The tmux config files based on dozen who's name is gpakosz,he is really awesome.
 
 
 
