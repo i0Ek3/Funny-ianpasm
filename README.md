@@ -26,7 +26,7 @@ Funny-ianpasm are my useful config files and something what I interesting.
 
 ## hackintosh
 
-> **Note: I moved this part to other project [Hackintosh_4_Hasee_Shinelon_A40L]\(https://github.com/i0Ek3/Hackintosh_4_Hasee_Shinelon_A40L) in order to reduce size in this project. Welcome to see that project, just same with before. Thank you so much~**
+> **Note: I moved this part to other project `[Hackintosh_4_Hasee_Shinelon_A40L](https://github.com/i0Ek3/Hackintosh_4_Hasee_Shinelon_A40L)` in order to reduce size in this project. Welcome to see that project, just same with before. Thank you so much~**
 > This part is my hackintosh experience on Shinelon A40L-741 QTS5. I offered you some pathed files which can use directly on the same hardware platform with me, and now I update it to 10.13.4, welcome to try it then feedback something to me.
 
 
