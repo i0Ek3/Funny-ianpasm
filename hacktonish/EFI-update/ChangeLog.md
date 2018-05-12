@@ -96,7 +96,9 @@ PS: 此处开始，系统变更为10.13.4，直接套用可能有不兼容情况
 ## 2018-05-12
 
 - Renamed EFI-lastest to EFI-10.13.3
-- Added EFI-10.13.4
+- Renamed EFI-ym2008-lastest to EFI-ym2008-10.13.3
+- Added EFI-ym2008-10.13.4
+- Added EFI-10.13.4(myself version)
     - Update to 10.13.4
     - Update kexts Lilu, Shiki, AppleALC
 
