@@ -4,12 +4,12 @@ Funny-ianpasm are my useful config files and something what I interesting.
 
 ## Contents
 
-* [dotfiles](#dotfiles)
-* [resources](#resources)
-* [hackintosh](#hackintosh)
-* [crx](#crx)
-* [miraculous](#miraculous)
-* [notes](#notes)
+* [dotfiles](/dotfiles)
+* [resources](/resources)
+* [hackintosh](/hackintosh)
+* [crx](/crx)
+* [miraculous](/miraculous)
+* [notes](/notes)
 
 
 ## dotfiles
