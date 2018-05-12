@@ -93,6 +93,13 @@ PS: 此处开始，系统变更为10.13.4，直接套用可能有不兼容情况
 - 删除了10.13.4版本的EFI文件，后续重新添加
 
 
+## 2018-05-12
+
+- Renamed EFI-lastest to EFI-10.13.3
+- Added EFI-10.13.4
+    - Update to 10.13.4
+    - Update kexts Lilu, Shiki, AppleALC
+
 
 
 # Trouble
