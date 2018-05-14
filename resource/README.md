@@ -198,6 +198,11 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [markdown](https://www.jianshu.com/p/20e82ddb37cb)
     - [Macdown](https://macdown.uranusjr.com)
     - [Mou](http://25.io/mou/)
+    - [Math Formula Syntax](https://meta.wikimedia.org/wiki/Help:Displaying_a_formula)
+    - [Markdown Plus](http://mdp.tylingsoft.com)
+- [LaTex](https://www.latex-project.org/get/)
+    - [Math Syntax for LaTex](http://mohu.org/info/symbols/symbols.html)
+    
 
 
 
@@ -273,6 +278,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Blog
+- [linteng.wang](http://www.linteng.wang 'My grad classmate!He is really awesome!~')
 - [Jerry Qu](https://imququ.com)
 - [skywind](http://www.skywind.me/blog/)
 - [chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
