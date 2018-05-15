@@ -3,7 +3,7 @@
 Something in here is my collections for funny resource which includes Linux/Security/Language/Movie/Music etc., I will update this resources all the time until I needn't this(impossible), just enjoy yourself.
 
 # Contents
-* [Good Books](#Good\ Books)
+* [Good Books](#`Good Books`)
 * [Book Community](#Book Community)
 * [Search Engine](#Search Engine)
 * [Personal Site](#Personal Site)
@@ -38,6 +38,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Good Books
+- [esguy](https://esguy.com)
 - [Intellij-idea-tutorial](https://youmeek.gitbooks.io/intellij-idea-tutorial/content/)
 - [笨办法学Vimscript](http://learnvimscriptthehardway.onefloweroneworld.com)
 - [Docker入门](https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html)
