@@ -314,6 +314,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Funny Link
+- [MSDN](https://msdn.itellyou.cn/)
 - [readhub](https://readhub.me)
 - [开发者速查表](http://devhints.cn/)
 - [asciinema](https://asciinema.org/)
