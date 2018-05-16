@@ -158,6 +158,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [readme](https://github.com/guodongxiaren/README)
 - [git-cmd-train](https://try.github.io/levels/1/challenges/1)
+- [github使用教程](https://www.zhihu.com/question/20070065)
 
 
 
@@ -313,8 +314,13 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 
-## Funny Link
+## Windows OS Download
+- [小马](http://www.pccppc.com/windows-system-html)
 - [MSDN](https://msdn.itellyou.cn/)
+
+
+
+## Funny Link
 - [readhub](https://readhub.me)
 - [开发者速查表](http://devhints.cn/)
 - [asciinema](https://asciinema.org/)
@@ -325,7 +331,6 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [codelf](http://unbug.github.io/codelf/)
 - [docker store](https://store.docker.com/search?q=&source=verified&type=image)
 - [when to buy apple products](https://buyersguide.macrumors.com/#Mac)
-- [github使用教程](https://www.zhihu.com/question/20070065)
 - [jekyll模板](http://jekyllthemes.org)
 - [hexo.io](https://hexo.io/zh-cn/docs/setup.html)
 - [freepik](https://www.freepik.com/)
