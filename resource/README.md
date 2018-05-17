@@ -186,6 +186,8 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [rust](https://www.rust-lang.org/en-US/index.html)
     - [rust-guide](https://doc.rust-lang.org/book/second-edition/ch01-01-installation.html)
 - [erlang](http://www.erlang.org)    
+- [ruby](https://www.ruby-lang.org/en/)
+    - [rvm](https://rvm.io/)
 - assembly
     - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 - react native
