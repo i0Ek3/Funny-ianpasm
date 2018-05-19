@@ -231,6 +231,10 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [Oreo for bacon](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
     - [download](https://androidfilehost.com/?w=files&flid=211773)
 - [MIUI.en](http://en.miui.com/a-234.html)
+- chiron Xiaomi MI Mix 2
+    - [LOS](https://download.lineageos.org/chiron)
+- [opengapps](https://opengapps.org)
+
 
 
 
