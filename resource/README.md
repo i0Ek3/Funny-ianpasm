@@ -157,6 +157,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [legit](http://www.git-legit.org)
 - [shields](http://shields.io)
 - [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+    - [emojione](https://www.emojione.com/)
 - [readme](https://github.com/guodongxiaren/README)
 - [git-cmd-train](https://try.github.io/levels/1/challenges/1)
 - [github使用教程](https://www.zhihu.com/question/20070065)
@@ -233,6 +234,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [MIUI.en](http://en.miui.com/a-234.html)
 - chiron Xiaomi MI Mix 2
     - [LOS](https://download.lineageos.org/chiron)
+    - [MOKEE](https://download.mokeedev.com/?device=chiron)
 - [opengapps](https://opengapps.org)
 
 
