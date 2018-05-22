@@ -233,6 +233,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
     - [download](https://androidfilehost.com/?w=files&flid=211773)
 - [MIUI.en](http://en.miui.com/a-234.html)
 - chiron Xiaomi MI Mix 2
+    - [epicrom](http://www.epicrom.pro/)
     - [LOS](https://download.lineageos.org/chiron)
     - [MOKEE](https://download.mokeedev.com/?device=chiron)
 - [opengapps](https://opengapps.org)
