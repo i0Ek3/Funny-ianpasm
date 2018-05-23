@@ -209,7 +209,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
     - [Markdown Plus](http://mdp.tylingsoft.com)
 - [LaTex](https://www.latex-project.org/get/)
     - [Math Syntax for LaTex](http://mohu.org/info/symbols/symbols.html)
-    
+    - [Office in LaTex](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8)    
 
 
 
@@ -291,6 +291,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Blog
+- [fuckyhuawei](https://funkyhuawei.club/)
 - [linteng.wang](http://www.linteng.wang 'My grad classmate!He is really awesome!~')
 - [Jerry Qu](https://imququ.com)
 - [skywind](http://www.skywind.me/blog/)
