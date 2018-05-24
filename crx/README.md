@@ -11,7 +11,7 @@
 - [package]() 
 - [simpleread]() Read like real book on your browser.
 - [touch-dog]() Through fetch block to translate.
-- []()
+- [selection-translator]()
 - []()
 - []()
 - []()

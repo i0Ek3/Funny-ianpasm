@@ -168,6 +168,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [谷歌开源代码风格](http://zh-google-styleguide.readthedocs.io/en/latest/contents/)
 - [设计模式](https://www.jianshu.com/p/84f19e25aeac)
 - [shell](http://www.freebuf.com/articles/system/147768.html)
+    - [command-line-kung-fu](https://pen-testing.sans.org/blog/category/command-line-kung-fu)
 - c/c++
     - [en](http://en.cppreference.com/w/)
     - [zh](http://zh.cppreference.com/w/首页)
