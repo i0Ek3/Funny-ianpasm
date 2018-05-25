@@ -34,6 +34,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 * [Speed Test](#Speed Test)
 * [Other](#Other)
 * [License](##License)
+* [Mirror List](#Mirror List)
 
 
 
@@ -47,6 +48,13 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
 - [ES6](http://es6.ruanyifeng.com)
+
+
+
+## Mirror List
+- [neusoft](http://mirrors.neusoft.edu.cn/)
+- [mirror4linux](https://mirrors.ustc.edu.cn/)
+- [清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 
 
 
@@ -362,12 +370,10 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [brendangregg](http://www.brendangregg.com/)
 - [Distrowatch](https://distrowatch.com/)
 - [Osdisc](https://www.osdisc.com/)
-- [清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [Chrome for linux](https://www.chrome64bit.com/index.php/google-chrome-64-bit-for-linux)
 - [Linux Software](https://www.gitbook.com/book/alim0x/awesome-linux-software-zh_cn/details)
 - [LinuxStory](https://linuxstory.org/)
 - [cdimage](http://cdimage.ubuntu.com/)
-- [mirror4linux](https://mirrors.ustc.edu.cn/)
 - [Pop_OS](https://system76.com/pop)
 - [Linuxapps](https://www.opendesktop.org/s/Apps)
 - [UBports](https://wiki.ubports.com/wiki/How-to-install-Ubuntu-Touch-16.04 'Awesome UBports')
