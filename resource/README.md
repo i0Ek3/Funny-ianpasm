@@ -86,6 +86,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [stackexchange](https://stackexchange.com)
 - [stackoverflow](https://stackoverflow.com)
 - [bitbucket](https://bitbucket.org/product)
+- [slack](https://elementarycommunity.slack.com/messages/DAW6LELNL/)
 - [TED](https://www.ted.com/)
 
 
@@ -364,7 +365,8 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [kernelmirror](https://mirrors.kernel.org)
 - [fosslinux](http://www.fosslinux.com)
 - [easylinuxtipsproject](https://sites.google.com/site/easylinuxtipsproject/)
-- [Elementarycn](https://elementaryos.cn/)
+- [elementary](https://elementary.io/)
+- [elementarycn](https://elementaryos.cn/)
 - [deepin-pkg](http://packages.deepin.com/deepin/pool/non-free/d/)
 - [Snapcraft](https://snapcraft.io/)
 - [brendangregg](http://www.brendangregg.com/)
