@@ -301,6 +301,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Blog
+- [hacpai](https://hacpai.com/)
 - [fuckyhuawei](https://funkyhuawei.club/)
 - [linteng.wang](http://www.linteng.wang 'My grad classmate!He is really awesome!~')
 - [Jerry Qu](https://imququ.com)
@@ -389,6 +390,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Code Online
+- [wide](https://wide.b3log.org/login)
 - [webassembly](https://webassembly.studio)
 - [codingame](https://www.codingame.com/home)
 - [rails365](https://www.rails365.net)
