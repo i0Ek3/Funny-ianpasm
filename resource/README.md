@@ -241,8 +241,9 @@ Something in here is my collections for funny resource which includes Linux/Secu
 - [sailfish os](http://images.devaamo.fi)
 - [Oreo for bacon](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
     - [download](https://androidfilehost.com/?w=files&flid=211773)
-- [MIUI.en](http://en.miui.com/a-234.html)
-- chiron Xiaomi MI Mix 2
+- Xiaomi MI Mix 2(chiron)
+    - [en.fastboot](http://en.miui.com/a-234.html)
+    - [cn.fastboot](http://www.miui.com/a-393.html)
     - [epicrom](http://www.epicrom.pro/)
     - [LOS](https://download.lineageos.org/chiron)
     - [MOKEE](https://download.mokeedev.com/?device=chiron)
