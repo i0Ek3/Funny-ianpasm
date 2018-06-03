@@ -338,12 +338,15 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Windows OS Download
+- [豆豆](https://www.iruanmi.com/)
+- [TechBench](https://tb.rg-adguard.net/public.php)
 - [小马](http://www.pccppc.com/windows-system-html)
 - [MSDN](https://msdn.itellyou.cn/)
 
 
 
 ## Funny Link
+- [share-mouse](http://www.keyboard-and-mouse-sharing.com/index.html)
 - [readhub](https://readhub.me)
 - [开发者速查表](http://devhints.cn/)
 - [asciinema](https://asciinema.org/)
