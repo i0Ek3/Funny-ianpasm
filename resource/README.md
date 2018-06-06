@@ -451,6 +451,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Boot
+- [FireWolf](https://pe.firewolf.app/)
 - [Ether](https://etcher.io/)
 - [symless](https://symless.com/synergy)
 - [usbbootable](https://rufus.akeo.ie/)
