@@ -1,6 +1,6 @@
 # Funny Resources
 
-Something in here is my collections for funny resource which includes Linux/Security/Language/Movie/Music etc., I will update this resources all the time until I needn't this(impossible), just enjoy yourself.
+Something in here are my collections for funny resource which includes Linux/Security/Language/Movie/Music etc., I will update this resources all the time until I needn't this(impossible), just enjoy yourself.
 
 # Contents
 * [Good Books](## Good Books)
