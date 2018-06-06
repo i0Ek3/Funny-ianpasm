@@ -422,7 +422,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 
-# Hosts
+## Hosts
 - [pi-hole](https://pi-hole.net/)
 - [racaljk-hosts](https://github.com/racaljk/hosts)
 - [HTTPS代理IP](http://www.xicidaili.com/wn/)
@@ -451,6 +451,7 @@ Something in here is my collections for funny resource which includes Linux/Secu
 
 
 ## Boot
+- [Ether](https://etcher.io/)
 - [symless](https://symless.com/synergy)
 - [usbbootable](https://rufus.akeo.ie/)
 - [multibootusb](http://multibootusb.org/)
