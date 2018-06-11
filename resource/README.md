@@ -351,6 +351,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [share-mouse](http://www.keyboard-and-mouse-sharing.com/index.html)
 - [readhub](https://readhub.me)
 - [开发者速查表](http://devhints.cn/)
+- [阿里开发者手册](https://cloud.tencent.com/developer/doc/1023)
 - [asciinema](https://asciinema.org/)
 - [npm+electron](http://blog.csdn.net/upc_xbt/article/details/53342129)
 - [bugzilla](https://bugzilla.readthedocs.io/en/latest/index.html)
