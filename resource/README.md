@@ -352,7 +352,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Develop    
 - [开发者速查表](http://devhints.cn/)
-- [阿里开发者手册](https://cloud.tencent.com/developer/doc/1023)
+- [腾讯发者手册](https://cloud.tencent.com/developer/doc/1023)
 - [asciinema](https://asciinema.org/)
 
 
