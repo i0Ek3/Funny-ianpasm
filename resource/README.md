@@ -35,6 +35,9 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Other](#Other)
 * [License](##License)
 * [Mirror List](#Mirror List)
+* [Activate](#Activate)
+* [Develop](#Develop)
+
 
 
 
@@ -290,6 +293,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [focusmusic](https://focusmusic.fm)
 - [tradiio](https://tradiio.com)
 - [joepbeving](http://joepbeving.com)
+- [music online](http://music.laod.cn/)
 - MOZIK
 
 
@@ -304,6 +308,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Blog
+- [readhub](https://readhub.me)
 - [hacpai](https://hacpai.com/)
 - [fuckyhuawei](https://funkyhuawei.club/)
 - [linteng.wang](http://www.linteng.wang 'My grad classmate!He is really awesome!~')
@@ -330,12 +335,25 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [firewolf](https://www.firewolf.science)
 - [柳诺](https://liuchuo.net/)
 - [kn007](https://kn007.net)
-- [Free JetBrains License Servers](http://xidea.online) **推荐**
 - [小众软件](https://www.appinn.com)
 - [MSDN](https://msdn.itellyou.cn/)
 - [萝卜头](http://bbs.luobotou.org/)
 - [雷锋网](https://www.leiphone.com)
 - [远景](http://bbs.pcbeta.com/)
+
+
+## Activate
+- [Free JetBrains License Servers](http://xidea.online) **推荐**
+- [Windows&Office Activate](https://cangshui.net/?page_id=1531)
+- []()
+- []()
+- []()
+
+
+## Develop    
+- [开发者速查表](http://devhints.cn/)
+- [阿里开发者手册](https://cloud.tencent.com/developer/doc/1023)
+- [asciinema](https://asciinema.org/)
 
 
 
@@ -349,10 +367,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Funny Link
 - [share-mouse](http://www.keyboard-and-mouse-sharing.com/index.html)
-- [readhub](https://readhub.me)
-- [开发者速查表](http://devhints.cn/)
-- [阿里开发者手册](https://cloud.tencent.com/developer/doc/1023)
-- [asciinema](https://asciinema.org/)
 - [npm+electron](http://blog.csdn.net/upc_xbt/article/details/53342129)
 - [bugzilla](https://bugzilla.readthedocs.io/en/latest/index.html)
 - [sideidea](http://sideidea.com)
@@ -363,7 +377,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [jekyll模板](http://jekyllthemes.org)
 - [hexo.io](https://hexo.io/zh-cn/docs/setup.html)
 - [freepik](https://www.freepik.com/)
-- [music online](http://music.laod.cn/)
 
 
 
