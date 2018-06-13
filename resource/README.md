@@ -308,6 +308,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Blog
+- [小弟调调TM](http://wangchujiang.com/)
 - [readhub](https://readhub.me)
 - [hacpai](https://hacpai.com/)
 - [fuckyhuawei](https://funkyhuawei.club/)
