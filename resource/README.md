@@ -87,8 +87,12 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [V2EX](https://www.v2ex.com)
 - [Quora](https://www.quora.com)
 - [Reddit](https://www.reddit.com)
+- [hackerrank](https://www.hackerrank.com/)
 - [stackexchange](https://stackexchange.com)
 - [stackoverflow](https://stackoverflow.com)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [tutorialspoint](https://www.tutorialspoint.com/index.htm)
+- [codebeautify](https://codebeautify.org/)
 - [bitbucket](https://bitbucket.org/product)
 - [slack](https://elementarycommunity.slack.com/messages/DAW6LELNL/)
 - [TED](https://www.ted.com/)
@@ -411,6 +415,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Code Online
+- [W3school-cn](http://www.w3school.com.cn/)
+- [W3school](https://www.w3schools.com/)
 - [wide](https://wide.b3log.org/login)
 - [webassembly](https://webassembly.studio)
 - [codingame](https://www.codingame.com/home)
