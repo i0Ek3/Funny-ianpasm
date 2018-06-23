@@ -55,9 +55,16 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Mirror List
-- [neusoft](http://mirrors.neusoft.edu.cn/)
-- [mirror4linux](https://mirrors.ustc.edu.cn/)
-- [清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+- []()
+- [重庆大学](http://mirrors.cqu.edu.cn/)
+- [上交](http://ftp.sjtu.edu.cn/)
+- [北京交通大学](https://mirror.bjtu.edu.cn/)
+- [兰州大学](http://mirror.lzu.edu.cn/)
+- [网易163](http://mirrors.163.com/)
+- [cn99](http://mirrors.cn99.com/)
+- [东软](http://mirrors.neusoft.edu.cn/)
+- [中科大](https://mirrors.ustc.edu.cn/)
+- [清华大学](https://mirrors.tuna.tsinghua.edu.cn/)
 
 
 
