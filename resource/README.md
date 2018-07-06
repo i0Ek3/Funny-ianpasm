@@ -260,7 +260,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - Xiaomi MI Mix 2(chiron)
     - [mimix2builds](https://funkyhuawei.club/mimix2builds)
     - [en.fastboot](http://en.miui.com/a-234.html)
-    - [cn.fastboot](http://www.miui.com/a-393.html)
+    - [cn.fastboot](http://www.miui.com/zt/miuirom/download.php)
     - [epicrom](http://www.epicrom.pro/)
     - [LOS](https://download.lineageos.org/chiron)
     - [MOKEE](https://download.mokeedev.com/?device=chiron)
