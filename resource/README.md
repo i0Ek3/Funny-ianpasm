@@ -202,6 +202,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [廖雪峰python3教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 - [go](https://golang.org)
     - [the-way-to-go](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
+- [Clojure](https://clojure.org/index)
 - [scala](http://www.scala-lang.org)
 - vala
     - [project-vala](https://wiki.gnome.org/Projects/Vala)
