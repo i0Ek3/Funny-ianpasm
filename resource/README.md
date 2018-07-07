@@ -3,7 +3,7 @@
 Something in here are my collections for funny resource which includes Linux/Security/Language/Movie/Music etc., I will update this resources all the time until I needn't this(impossible), just enjoy yourself.
 
 # Contents
-* [Good Books](## Good Books)
+* [Good Books](#Good Books)
 * [Book Community](#Book Community)
 * [Search Engine](#Search Engine)
 * [Personal Site](#Personal Site)
@@ -37,11 +37,13 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Mirror List](#Mirror List)
 * [Activate](#Activate)
 * [Develop](#Develop)
+* [Virtual](#Virtual)
 
 
 
 
 ## Good Books
+- [linux-insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [esguy](https://esguy.com)
 - [Intellij-idea-tutorial](https://youmeek.gitbooks.io/intellij-idea-tutorial/content/)
 - [笨办法学Vimscript](http://learnvimscriptthehardway.onefloweroneworld.com)
@@ -65,12 +67,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [东软](http://mirrors.neusoft.edu.cn/)
 - [中科大](https://mirrors.ustc.edu.cn/)
 - [清华大学](https://mirrors.tuna.tsinghua.edu.cn/)
-
-
-
-## Book Community
-- [异步社区](https://www.epubit.com)
-- [图灵社区](http://www.ituring.com.cn)
 
 
 
@@ -197,6 +193,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - c/c++
     - [en](http://en.cppreference.com/w/)
     - [zh](http://zh.cppreference.com/w/首页)
+    - [cppEditorOnline](cpp.sh)
 - [python](https://www.python.org)
     - [Python教程](http://pythonguidecn.readthedocs.io/zh/latest/)
     - [廖雪峰python3教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
@@ -241,6 +238,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Linux Kernel
+- [linux archive by bootlin](https://elixir.bootlin.com/linux/v4.18-rc3/source)
 - [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
 - [LKRG](http://www.openwall.com/lkrg/)
 - [LKML](https://lkml.org)
@@ -266,7 +264,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [LOS](https://download.lineageos.org/chiron)
     - [MOKEE](https://download.mokeedev.com/?device=chiron)
 - [opengapps](https://opengapps.org)
-
 
 
 
@@ -357,12 +354,14 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [远景](http://bbs.pcbeta.com/)
 
 
+
 ## Activate
 - [Free JetBrains License Servers](http://xidea.online) **推荐**
 - [Windows&Office Activate](https://cangshui.net/?page_id=1531)
 - []()
 - []()
 - []()
+
 
 
 ## Develop    
@@ -381,6 +380,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Funny Link
+- [VirtualOnWeb](copy.sh/v86/)
 - [share-mouse](http://www.keyboard-and-mouse-sharing.com/index.html)
 - [npm+electron](http://blog.csdn.net/upc_xbt/article/details/53342129)
 - [bugzilla](https://bugzilla.readthedocs.io/en/latest/index.html)
@@ -501,6 +501,12 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
+## Book Community
+- [异步社区](https://www.epubit.com)
+- [图灵社区](http://www.ituring.com.cn)
+
+
+
 ## Speed Test
 - [Speedtest](http://www.speedtest.net/)
 - [电信测速](http://service.sh.189.cn/service/speedNew)
@@ -510,6 +516,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 ## Complain
 - [工信部申诉](http://www.chinatcc.gov.cn:8080/cms/shensus/)
 - [12321网络不良与垃圾信息举报受理中心](https://www.12321.cn)
+
 
 
 ## License
