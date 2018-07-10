@@ -157,6 +157,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Blockchain
+- [Bitcointalk](https://bitcointalk.org/index.php)
 - [securityartwork](https://www.securityartwork.es/en/)
 - [8btc](http://www.8btc.com)
 - [铅笔区块链](http://www.chainb.com)
