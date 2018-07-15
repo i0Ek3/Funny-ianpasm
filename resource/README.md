@@ -472,7 +472,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Proxy
 - [privoxy](http://www.privoxy.org)
-- [ShadowsocksCustom](https://portal.shadowsocks.la)
+- [ShadowsocksCustom](https://portal.shadowsocks.to)
 - [PortsClients4SS](https://github.com/shadowsocks/shadowsocks/wiki/Ports-and-Clients)
 - [shadowsocks.org](http://shadowsocks.org/en/index.html)
 - [OVPN](https://www.ovpn.com/en)
