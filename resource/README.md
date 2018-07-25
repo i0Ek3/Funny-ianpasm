@@ -7,8 +7,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Ebook](#Ebook)
 * [Book Community](#Book Community)
 * [Search Engine](#Search Engine)
-* [Personal Site](#Personal Site)
-* [Tech Site](#Tech Site)
+* [Site](#Site)
 * [Mac Things](#Mac Things)
 * [Security OS](#Security OS)
 * [Cyber Security](#Cyber Security)
@@ -46,6 +45,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Good Books
+- [On Lisp](https://www.kancloud.cn/ituring/on-lisp/56192)
+- [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook/63822)
 - [linux-insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [esguy](https://esguy.com)
 - [Intellij-idea-tutorial](https://youmeek.gitbooks.io/intellij-idea-tutorial/content/)
@@ -85,8 +86,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## Personal Site
-- [知乎](https://www.zhihu.com)
+## Site
+- [InfoQ](https://www.infoq.com/)
 - [Medium](https://medium.com)
 - [Twitter](https://twitter.com)
 - [XDA](https://www.xda-developers.com)
@@ -102,6 +103,12 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [bitbucket](https://bitbucket.org/product)
 - [slack](https://elementarycommunity.slack.com/messages/DAW6LELNL/)
 - [TED](https://www.ted.com/)
+- [伯乐头条](http://www.jobbole.com/)
+- [Segmentfault](https://segmentfault.com)
+- [CSDN极客头条](http://geek.csdn.net)
+- [开发者头条](https://toutiao.io/)
+- [开源中国](https://www.oschina.net/)
+- [READHUB](https://readhub.me/)
 
 
 
@@ -111,16 +118,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [malwarebytes4mac](https://www.malwarebytes.com)
 - [xclient](http://xclient.info/?t=680034e137bc7cc9b41bad81241e03e932425016)
 - [packal for alfred](http://www.packal.org/)
-
-
-
-## Tech Site
-- [CSDN极客头条](http://geek.csdn.net)
-- [开发者头条](https://toutiao.io/)
-- [开源中国](https://www.oschina.net/)
-- [READHUB](https://readhub.me/)
-- [伯乐头条](http://www.jobbole.com/)
-- [Segmentfault](https://segmentfault.com)
 
 
 
