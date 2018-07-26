@@ -319,6 +319,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - Spanish
     - [Spanishdict](http://www.spanishdict.com)
     - [forvo](https://zh.forvo.com/languages/es/)
+- [Dict](https://en.bab.la/)
 
 
 
