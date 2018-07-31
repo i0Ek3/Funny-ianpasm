@@ -113,10 +113,11 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Mac Things
+- [OurMacs](https://ourmacs.com/zh-cn/)
 - [apple-download-center](https://developer.apple.com/download/more/)
 - [objective-see](https://objective-see.com/index.html)
 - [malwarebytes4mac](https://www.malwarebytes.com)
-- [xclient](http://xclient.info/?t=680034e137bc7cc9b41bad81241e03e932425016)
+- [xclient](http://xclient.info/?t=680034e137bc7cc9b41bad81241e03e932425016) 当然，大家有经济能力的还是推荐购买正版，毕竟盗版的谁也说不准是否会有后门什么的。
 - [packal for alfred](http://www.packal.org/)
 
 
@@ -324,6 +325,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Blog
+- [崔庆才](https://cuiqingcai.com/)
 - [小弟调调TM](http://wangchujiang.com/)
 - [readhub](https://readhub.me)
 - [hacpai](https://hacpai.com/)
