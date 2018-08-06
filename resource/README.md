@@ -314,6 +314,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Language
+- [20多种语言免费在线学习](https://www.loecsen.com/)
 - [Esperanto](https://lernu.net/en)
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
     - [可可英语语法](http://www.kekenet.com/grammar/)

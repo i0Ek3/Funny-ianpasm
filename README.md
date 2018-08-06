@@ -1,12 +1,12 @@
 # Funny-ianpasm
 
-Funny-ianpasm are something which I think funny little, just for fun.
+In this project, there are something which I think funny and useful, such as .crx files, resource links, and some points, just 4 fun, happy here.
 
 ## Contents
 
-* [resources](/resources)
-* [crx](/crx)
-* [miraculous](/miraculous)
+* [resources](https://github.com/i0Ek3/Funny-ianpasm/tree/master/resource)
+* [crx](https://github.com/i0Ek3/Funny-ianpasm/tree/master/crx)
+* [miraculous](https://github.com/i0Ek3/Funny-ianpasm/tree/master/miraculous?1533554785558)
 
 
 ## resource
