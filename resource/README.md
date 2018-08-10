@@ -45,6 +45,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Good Books
+- [Node.js区块链开发](http://bitcoin-on-nodejs.ebookchain.org/)
 - [On Lisp](https://www.kancloud.cn/ituring/on-lisp/56192)
 - [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook/63822)
 - [linux-insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
@@ -250,6 +251,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Third ROM
+- [Carbon](https://get.carbonrom.org/)
 - [AOSPEX](https://downloads.aospextended.com)
 - [AOSIP](https://get.aosiprom.com/shamu/)
 - [AOSCP](http://get.cypheros.co)
