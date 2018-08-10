@@ -4,10 +4,10 @@ In this project, there are something which I think funny and useful, such as .cr
 
 ## Contents
 
-* [resources](https://github.com/i0Ek3/Funny-ianpasm/tree/master/resource)
-* [scripts](https://github.com/i0Ek3/Funny-ianpasm/tree/master/scripts)
-* [crx](https://github.com/i0Ek3/Funny-ianpasm/tree/master/crx)
-* [miraculous](https://github.com/i0Ek3/Funny-ianpasm/tree/master/miraculous?1533554785558)
+* [`resources`](#resource)
+* [`scripts`](#scripts)
+* [`crx`](#crx)
+* [`miraculous`](#miraculous)
 
 
 ## resource
