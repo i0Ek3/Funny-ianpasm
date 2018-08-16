@@ -23,6 +23,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [License](##License)
 * [Linux Kernel](#linux-kernel)
 * [Linux](#Linux)
+* [Linux OS](#linux-os)
 * [Language](#Language)
 * [Mac Things](#mac-things)
 * [Movie](#Movie)
@@ -48,7 +49,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [bestcbook](http://bestcbooks.com/) 大多数电子书籍较旧，但是不影响我们吸收营养。
 
 
-## GoodBooks
+## Good Books
 - [Node.js区块链开发](http://bitcoin-on-nodejs.ebookchain.org/)
 - [On Lisp](https://www.kancloud.cn/ituring/on-lisp/56192)
 - [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook/63822)
@@ -65,7 +66,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## MirrorList
+## Mirror List
 - []()
 - [重庆大学](http://mirrors.cqu.edu.cn/)
 - [上交](http://ftp.sjtu.edu.cn/)
@@ -79,7 +80,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## SearchEngine
+## Search Engine
 - [GeekBang Search](https://s.geekbang.org/)
 - [Deepso](https://deepso.io/)
 - [Learn-anything](https://learn-anything.xyz)
@@ -117,7 +118,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## MacThings
+## Mac Things
 - [OurMacs](https://ourmacs.com/zh-cn/)
 - [apple-download-center](https://developer.apple.com/download/more/)
 - [objective-see](https://objective-see.com/index.html)
@@ -127,7 +128,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## SecurityOS
+## Security OS
 - [windwos](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines)
 - [parrot](https://www.parrotsec.org)
 - [kali](https://www.kali.org)
@@ -136,7 +137,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## CyberSecurity
+## Cyber Security
 - [腾讯玄武实验室](https://xlab.tencent.com/cn/)
 - [schneier](https://www.schneier.com/blog/archives/2015/07/hacking_team_is.html)
 - [GPG](https://www.gnupg.org/index.html)
@@ -244,7 +245,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## LinuxKernel
+## Linux Kernel
 - [linux archive by bootlin](https://elixir.bootlin.com/linux/v4.18-rc3/source)
 - [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
 - [LKRG](http://www.openwall.com/lkrg/)
@@ -254,7 +255,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## ThirdROM
+## Third ROM
 - [Carbon](https://get.carbonrom.org/)
 - [AOSPEX](https://downloads.aospextended.com)
 - [AOSIP](https://get.aosiprom.com/shamu/)
@@ -278,7 +279,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## OnelineEditor
+## Oneline Editor
 - [Google Doc](https://docs.google.com/document/u/0/?authuser=0&usp=docs_web)
 - [uzer](https://uzer.me)
 - 简历
@@ -391,7 +392,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## WindowsOSDownload
+## Windows OS Download
 - [豆豆](https://www.iruanmi.com/)
 - [TechBench](https://tb.rg-adguard.net/public.php)
 - [小马](http://www.pccppc.com/windows-system-html)
@@ -399,7 +400,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## FunnyLink
+## Funny Link
 - [VirtualOnWeb](copy.sh/v86/)
 - [share-mouse](http://www.keyboard-and-mouse-sharing.com/index.html)
 - [npm+electron](http://blog.csdn.net/upc_xbt/article/details/53342129)
@@ -421,8 +422,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [kernelmirror](https://mirrors.kernel.org)
 - [fosslinux](http://www.fosslinux.com)
 - [easylinuxtipsproject](https://sites.google.com/site/easylinuxtipsproject/)
-- [elementary](https://elementary.io/)
-- [elementarycn](https://elementaryos.cn/)
 - [deepin-pkg](http://packages.deepin.com/deepin/pool/non-free/d/)
 - [Snapcraft](https://snapcraft.io/)
 - [brendangregg](http://www.brendangregg.com/)
@@ -432,7 +431,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [Linux Software](https://www.gitbook.com/book/alim0x/awesome-linux-software-zh_cn/details)
 - [LinuxStory](https://linuxstory.org/)
 - [cdimage](http://cdimage.ubuntu.com/)
-- [Pop_OS](https://system76.com/pop)
 - [Linuxapps](https://www.opendesktop.org/s/Apps)
 - [UBports](https://wiki.ubports.com/wiki/How-to-install-Ubuntu-Touch-16.04 'Awesome UBports')
     - [porting](https://docs.ubuntu.com/phone/en/devices/porting-new-device)
@@ -444,7 +442,26 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## CodeOnline
+## Linux OS
+- [Ubuntu](https://www.ubuntu.com/download/desktop)
+- [Neon KDE](https://neon.kde.org/)
+- [Zorin OS](https://zorinos.com/)
+- [Pop_OS](https://system76.com/pop)
+- [elementary](https://elementary.io/)
+- [elementarycn](https://elementaryos.cn/)
+- [Kubuntu](https://kubuntu.org/getkubuntu/)
+- [Linux Mint](https://www.linuxmint.com/)
+- [Cr OS Linux](https://getchrome.eu/download)
+- [Manjaro](https://manjaro.org/)
+- [Debian](https://www.debian.org/)
+- [Arch Linux](https://www.archlinux.org/download/)
+- []()
+- []()
+
+
+
+
+## Code Online
 - [W3school-cn](http://www.w3school.com.cn/)
 - [W3school](https://www.w3schools.com/)
 - [wide](https://wide.b3log.org/login)
