@@ -5,7 +5,6 @@ In this project, there are something which I think funny and useful, such as .cr
 ## Contents
 
 * [`resources`](#resource)
-* [`scripts`](#scripts)
 * [`crx`](#crx)
 * [`miraculous`](#miraculous)
 
@@ -14,10 +13,6 @@ In this project, there are something which I think funny and useful, such as .cr
 
 > This part is my favorite website and movie resources and other amazing resources collections, whatever just for fun.
 
-
-## scripts
-
-> Release your hands, give it to scripts.
 
 ## crx
 
