@@ -25,6 +25,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Linux](#Linux)
 * [Linux OS](#linux-os)
 * [Language](#Language)
+* [Logo](#Logo)
 * [Mac Things](#mac-things)
 * [Movie](#Movie)
 * [Music](#Music)
@@ -222,6 +223,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [erlang](http://www.erlang.org)    
 - [ruby](https://www.ruby-lang.org/en/)
     - [rvm](https://rvm.io/)
+- [Julia](https://julialang.org/)
+    - [Learning](https://julialang.org/learning/)
 - assembly
     - [X86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 - react native
@@ -570,7 +573,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [omnetpp](https://www.omnetpp.org/omnetpp) Simulate software.
 
 
-
+## Logo
+- [logomakr](https://logomakr.com/)
 
 
 
