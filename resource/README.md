@@ -16,6 +16,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Develop](#Develop)
 * [Ebook](#Ebook)
 * [Funny Link](#funny-link)
+* [Font](#Font)
 * [Good Books](#good-books)
 * [Github](#Github)
 * [Hosts](#Hosts)
@@ -46,8 +47,10 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
+
 ## Ebook
 - [bestcbook](http://bestcbooks.com/) 大多数电子书籍较旧，但是不影响我们吸收营养。
+
 
 
 ## Good Books
@@ -64,6 +67,14 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
 - [ES6](http://es6.ruanyifeng.com)
+
+
+
+## Font
+- [nerd-fonts](https://nerdfonts.com/)
+- [powerline-fonts](https://github.com/powerline/fonts)
+- [fontawesome](https://fontawesome.com/)
+- [fontspace](http://www.fontspace.com/)
 
 
 
@@ -120,6 +131,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Mac Things
+- [osxdaily](http://osxdaily.com/)
 - [OurMacs](https://ourmacs.com/zh-cn/)
 - [apple-download-center](https://developer.apple.com/download/more/)
 - [objective-see](https://objective-see.com/index.html)
@@ -238,6 +250,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [vim-adventures](https://vim-adventures.com)
     - [coolshell-vim](https://coolshell.cn/articles/5426.html)
 - [markdown](https://www.jianshu.com/p/20e82ddb37cb)
+    - [stackedit](https://stackedit.io/)
     - [Macdown](https://macdown.uranusjr.com)
     - [Mou](http://25.io/mou/)
     - [Math Formula Syntax](https://meta.wikimedia.org/wiki/Help:Displaying_a_formula)
