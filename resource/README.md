@@ -31,6 +31,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Movie](#Movie)
 * [Music](#Music)
 * [Mirror List](#mirror-list)
+* [Network](#Network)
 * [Online Editor](#online-editor)
 * [Proxy](#Proxy)
 * [Programming](#Programming)
@@ -44,6 +45,14 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Virtual](#Virtual)
 * [Windows OS Download](#windows-os-download)
 * [Other](#Other)
+
+
+
+
+
+# Network
+- [I2P](https://geti2p.net/zh/)
+- [Tor](https://www.torproject.org/)
 
 
 
@@ -147,6 +156,10 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [kali](https://www.kali.org)
 - [blackarch](https://blackarch.org)
 - [backbox](https://backbox.org)
+- [tails](https://tails.boum.org/index.en.html)
+- [whonix](https://www.whonix.org/)
+    - [docs](https://www.whonix.org/wiki/Documentation)
+- [qubes](https://www.qubes-os.org/)
 
 
 
@@ -353,6 +366,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Blog
+- [wateroot](https://blog.wateroot.com/)
 - [崔庆才](https://cuiqingcai.com/)
 - [小弟调调TM](http://wangchujiang.com/)
 - [readhub](https://readhub.me)
@@ -516,7 +530,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [pi-hole](https://pi-hole.net/)
 - [racaljk-hosts](https://github.com/racaljk/hosts)
 - [HTTPS代理IP](http://www.xicidaili.com/wn/)
-- [Tor](https://www.torproject.org/index.html.en)
 - [自建ss服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 - [91yun](https://www.91yun.co/)
 - [doub](https://doub.bid/)
