@@ -102,6 +102,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Search Engine
+- [Google](https://encrypted.google.com/) 该网址比https://www.google.com稍微安全一些。
+- [startpage](https://www.startpage.com/) 匿名搜索网址。
 - [GeekBang Search](https://s.geekbang.org/)
 - [Deepso](https://deepso.io/)
 - [Learn-anything](https://learn-anything.xyz)
@@ -554,6 +556,9 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Boot
+- [unetbootin](https://unetbootin.github.io/)
+- [universalUsbInstaller](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)
+- [dd4win](http://www.chrysocome.net/dd)
 - [FireWolf](https://pe.firewolf.app/)
 - [Ether](https://etcher.io/)
 - [symless](https://symless.com/synergy)
