@@ -4,9 +4,15 @@ In this project, there are something which I think funny and useful, such as .cr
 
 ## Contents
 
+* [`activate`](#activate)
 * [`resources`](#resource)
 * [`crx`](#crx)
 * [`miraculous`](#miraculous)
+
+
+## activate
+
+> You know it!
 
 
 ## resource
