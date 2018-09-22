@@ -15,6 +15,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Complain](#Complain)
 * [Develop](#Develop)
 * [Ebook](#Ebook)
+* [Encrypt](#Encrypt)
 * [Funny Link](#funny-link)
 * [Font](#Font)
 * [Good Books](#good-books)
@@ -54,6 +55,13 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [prism-break](https://prism-break.org/)
 - [I2P](https://geti2p.net/zh/)
 - [Tor](https://www.torproject.org/)
+
+
+
+# Encrypt
+
+- [Veracrypt](https://www.veracrypt.fr/en/Downloads.html)
+
 
 
 
