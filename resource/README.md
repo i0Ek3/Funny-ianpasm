@@ -8,6 +8,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Activate](#Activate)
 * [Blockchain](#Blockchain)
 * [Blog](#Blog)
+* [Black List](#black-list)
 * [Boot](#Boot)
 * [Book Community](#book-community)
 * [Cyber Security](#cyber-security)
@@ -62,6 +63,13 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 - [Veracrypt](https://www.veracrypt.fr/en/Downloads.html)
 
+
+
+
+# Black List
+- [itblacklist](http://www.itblacklist.cn/)
+- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)
+- [blackdir](http://www.blackdir.com/jump/index)
 
 
 
