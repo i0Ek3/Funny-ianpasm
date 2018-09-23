@@ -209,6 +209,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Blockchain
+- [101blockchains](https://101blockchains.com/)
 - [Bitcointalk](https://bitcointalk.org/index.php)
 - [securityartwork](https://www.securityartwork.es/en/)
 - [8btc](http://www.8btc.com)
@@ -385,6 +386,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Blog
+- [鸟窝](https://colobu.com/)
 - [wateroot](https://blog.wateroot.com/)
 - [崔庆才](https://cuiqingcai.com/)
 - [小弟调调TM](http://wangchujiang.com/)
