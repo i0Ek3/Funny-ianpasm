@@ -386,6 +386,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Blog
+- [crossoverjie.top](https://crossoverjie.top/)
 - [鸟窝](https://colobu.com/)
 - [wateroot](https://blog.wateroot.com/)
 - [崔庆才](https://cuiqingcai.com/)
