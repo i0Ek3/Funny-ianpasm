@@ -305,6 +305,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Third ROM
+- [Arrows](https://arrowos.net/)
 - [PixelExperience](https://download.pixelexperience.org/)
 - [Carbon](https://get.carbonrom.org/)
 - [AOSPEX](https://downloads.aospextended.com)
@@ -317,7 +318,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [Lineageosrom](https://www.lineageosrom.com/)
     - [Cyanogenmods](https://www.cyanogenmods.org/)
 - [Unlegency Android Project](http://builds.unlegacy-android.org)
-- [PexelExperience](https://download.pixelexperience.org/)
 - [sailfish os](http://images.devaamo.fi)
 - [Oreo for bacon](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
     - [download](https://androidfilehost.com/?w=files&flid=211773)
