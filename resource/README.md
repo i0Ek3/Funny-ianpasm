@@ -23,7 +23,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Github](#Github)
 * [Hosts](#Hosts)
 * [Icons](#Icons)
-* [License](##License)
+* [License](#License)
 * [Linux Kernel](#linux-kernel)
 * [Linux](#Linux)
 * [Linux OS](#linux-os)
@@ -46,40 +46,54 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Third ROM](#third-rom)
 * [Virtual](#Virtual)
 * [Windows OS Download](#windows-os-download)
+* [Windows Software](#windows-software)
 * [Other](#Other)
 
 
 
 
 
-# Network
+## Network
+
 - [prism-break](https://prism-break.org/)
 - [I2P](https://geti2p.net/zh/)
 - [Tor](https://www.torproject.org/)
 
 
 
-# Encrypt
+## Encrypt
 
 - [Veracrypt](https://www.veracrypt.fr/en/Downloads.html)
 
 
 
 
-# Black List
+## Black List
+
 - [itblacklist](http://www.itblacklist.cn/)
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)
 - [blackdir](http://www.blackdir.com/jump/index)
 
 
 
+## Windows Software
+
+- [chocolatey](https://chocolatey.org)
+- [scoop](https://scoop.sh/)
+- [wox]()
+
+
+
+
 
 ## Ebook
+
 - [bestcbook](http://bestcbooks.com/) 大多数电子书籍较旧，但是不影响我们吸收营养。
 
 
 
 ## Good Books
+
 - [Node.js区块链开发](http://bitcoin-on-nodejs.ebookchain.org/)
 - [On Lisp](https://www.kancloud.cn/ituring/on-lisp/56192)
 - [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook/63822)
@@ -97,6 +111,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Font
+
 - [nerd-fonts](https://nerdfonts.com/)
 - [powerline-fonts](https://github.com/powerline/fonts)
 - [fontawesome](https://fontawesome.com/)
@@ -105,6 +120,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Mirror List
+
 - []()
 - [重庆大学](http://mirrors.cqu.edu.cn/)
 - [上交](http://ftp.sjtu.edu.cn/)
@@ -119,6 +135,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Search Engine
+
 - [Google](https://encrypted.google.com/) 该网址比https://www.google.com稍微安全一些。
 - [startpage](https://www.startpage.com/) 匿名搜索网址。
 - [GeekBang Search](https://s.geekbang.org/)
@@ -133,6 +150,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Sites
+
 - [InfoQ](https://www.infoq.com/)
 - [Medium](https://medium.com)
 - [Twitter](https://twitter.com)
@@ -159,6 +177,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Mac Things
+
 - [osxdaily](http://osxdaily.com/)
 - [OurMacs](https://ourmacs.com/zh-cn/)
 - [apple-download-center](https://developer.apple.com/download/more/)
@@ -170,6 +189,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Security OS
+
 - [windwos](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines)
 - [parrot](https://www.parrotsec.org)
 - [kali](https://www.kali.org)
@@ -209,6 +229,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Blockchain
+
 - [101blockchains](https://101blockchains.com/)
 - [Bitcointalk](https://bitcointalk.org/index.php)
 - [securityartwork](https://www.securityartwork.es/en/)
@@ -228,6 +249,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Github
+
 - [hub](https://hub.github.com)
 - [legit](http://www.git-legit.org)
 - [shields](http://shields.io)
@@ -240,6 +262,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Programing
+
 - [谷歌开源代码风格](http://zh-google-styleguide.readthedocs.io/en/latest/contents/)
 - [设计模式](https://www.jianshu.com/p/84f19e25aeac)
 - [shell](http://www.freebuf.com/articles/system/147768.html)
@@ -295,6 +318,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Linux Kernel
+
 - [linux archive by bootlin](https://elixir.bootlin.com/linux/v4.18-rc3/source)
 - [kernel-ppa](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
 - [LKRG](http://www.openwall.com/lkrg/)
@@ -333,6 +357,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Oneline Editor
+
 - [Google Doc](https://docs.google.com/document/u/0/?authuser=0&usp=docs_web)
 - [uzer](https://uzer.me)
 - 简历
@@ -344,6 +369,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Picture
+
 - [octodex](https://octodex.github.com)
 - [Unsplash](https://unsplash.com/)
 - [wallhaven](https://alpha.wallhaven.cc)
@@ -351,6 +377,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Movie
+
 - [bd-film](http://www.bd-film.co/)
 - [bt0](http://bt0.com/)
 - [rarbg](https://rarbg.is/torrents.php)
@@ -386,6 +413,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Blog
+
 - [crossoverjie.top](https://crossoverjie.top/)
 - [鸟窝](https://colobu.com/)
 - [wateroot](https://blog.wateroot.com/)
@@ -427,12 +455,14 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Router
+
 - [192ly](https://www.192ly.com/)
 
 
 
 
 ## Activate
+
 - [Free JetBrains License Servers](http://xidea.online) **推荐**
 - [Windows&Office Activate](https://cangshui.net/?page_id=1531)
 - []()
@@ -441,7 +471,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-## Develop    
+## Develop   
+
 - [开发者速查表](http://devhints.cn/)
 - [腾讯发者手册](https://cloud.tencent.com/developer/doc/1023)
 - [asciinema](https://asciinema.org/)
@@ -449,6 +480,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Windows OS Download
+
 - [豆豆](https://www.iruanmi.com/)
 - [TechBench](https://tb.rg-adguard.net/public.php)
 - [小马](http://www.pccppc.com/windows-system-html)
@@ -457,6 +489,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Funny Link
+
 - [VirtualOnWeb](copy.sh/v86/)
 - [share-mouse](http://www.keyboard-and-mouse-sharing.com/index.html)
 - [npm+electron](http://blog.csdn.net/upc_xbt/article/details/53342129)
@@ -473,6 +506,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Linux
+
 - [薄荷开源网](http://www.mintos.org)
 - [开源工厂](https://openingsource.org/)
 - [kernelmirror](https://mirrors.kernel.org)
@@ -499,6 +533,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Linux OS
+
 - [Ubuntu](https://www.ubuntu.com/download/desktop)
 - [Neon KDE](https://neon.kde.org/)
 - [Zorin OS](https://zorinos.com/)
@@ -518,6 +553,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Code Online
+
 - [W3school-cn](http://www.w3school.com.cn/)
 - [W3school](https://www.w3schools.com/)
 - [wide](https://wide.b3log.org/login)
@@ -535,6 +571,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Icons
+
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 - [Arc](https://github.com/horst3180/arc-theme)
 - [Adapta-gtk](https://github.com/adapta-project/adapta-gtk-theme)
@@ -549,6 +586,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Hosts
+
 - [pi-hole](https://pi-hole.net/)
 - [racaljk-hosts](https://github.com/racaljk/hosts)
 - [HTTPS代理IP](http://www.xicidaili.com/wn/)
@@ -559,6 +597,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Proxy
+
 - [privoxy](http://www.privoxy.org)
 - [ShadowsocksCustom](https://portal.shadowsocks.to)
 - [PortsClients4SS](https://github.com/shadowsocks/shadowsocks/wiki/Ports-and-Clients)
@@ -576,6 +615,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Boot
+
 - [unetbootin](https://unetbootin.github.io/)
 - [universalUsbInstaller](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)
 - [dd4win](http://www.chrysocome.net/dd)
@@ -589,6 +629,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Algorithm
+
 - [leetcode](https://leetcode.com/problemset/all/)
 - [算法珠玑](https://www.gitbook.com/book/soulmachine/algorithm-essentials/details)
 - [ALGS4](https://algs4.cs.princeton.edu/home/)
@@ -597,18 +638,21 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## BookCommunity
+
 - [异步社区](https://www.epubit.com)
 - [图灵社区](http://www.ituring.com.cn)
 
 
 
 ## SpeedTest
+
 - [Speedtest](http://www.speedtest.net/)
 - [电信测速](http://service.sh.189.cn/service/speedNew)
 
 
 
 ## Complain
+
 - [工信部申诉](http://www.chinatcc.gov.cn:8080/cms/shensus/)
 - [12321网络不良与垃圾信息举报受理中心](https://www.12321.cn)
 
@@ -621,6 +665,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Other
+
 - [TextNow](https://www.textnow.com/) Virtual telephone.
 - [分流抢票](http://www.12306bypass.com/) Third client for 12306er.
 - [cn-data](https://github.com/cn)
@@ -628,6 +673,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Logo
+
 - [logomakr](https://logomakr.com/)
 
 
