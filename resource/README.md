@@ -84,8 +84,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 
-
-
 ## Ebook
 
 - [bestcbook](http://bestcbooks.com/) 大多数电子书籍较旧，但是不影响我们吸收营养。
@@ -203,6 +201,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Cyber Security
+
 - [腾讯玄武实验室](https://xlab.tencent.com/cn/)
 - [schneier](https://www.schneier.com/blog/archives/2015/07/hacking_team_is.html)
 - [GPG](https://www.gnupg.org/index.html)
@@ -329,6 +328,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Third ROM
+
 - [Arrows](https://arrowos.net/)
 - [PixelExperience](https://download.pixelexperience.org/)
 - [Carbon](https://get.carbonrom.org/)
@@ -389,6 +389,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Music
+
 - [voicer](http://www.voicer.me/?s=Mixtape)
 - [22tracks](http://22tracks.com/#!ams/starclub/36391)
 - [otohibi](http://www.otohibi.com)
@@ -401,6 +402,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Language
+
 - [20多种语言免费在线学习](https://www.loecsen.com/)
 - [Esperanto](https://lernu.net/en)
 - [byoungd's English guide for ITers](https://www.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details "English Recommend!")
@@ -414,6 +416,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Blog
 
+- [James Routley](https://routley.io/)
 - [crossoverjie.top](https://crossoverjie.top/)
 - [鸟窝](https://colobu.com/)
 - [wateroot](https://blog.wateroot.com/)
@@ -659,6 +662,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## License
+
 - [MIT](https://choosealicense.com/licenses/mit/)
 - [choosealicense](https://choosealicense.com)
 
