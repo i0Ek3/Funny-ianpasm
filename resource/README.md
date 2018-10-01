@@ -601,6 +601,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Proxy
 
+- [shadowsocks.be](https://shadowsocks.be/)
 - [privoxy](http://www.privoxy.org)
 - [ShadowsocksCustom](https://portal.shadowsocks.to)
 - [PortsClients4SS](https://github.com/shadowsocks/shadowsocks/wiki/Ports-and-Clients)
