@@ -1,5 +1,8 @@
 # Funny Resources
 
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/lurongkai/anti-baidu/js/anti-baidu-latest.min.js" charset="UTF-8"></script>
+
 Something in here are my collections for funny resource which includes Linux/Security/Language/Movie/Music etc., I will update this resources all the time until I needn't this(impossible), just enjoy yourself.
 
 # Contents
@@ -149,6 +152,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Sites
 
+- [solidot](https://www.solidot.org/)
 - [InfoQ](https://www.infoq.com/)
 - [Medium](https://medium.com)
 - [Twitter](https://twitter.com)
@@ -305,6 +309,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [vim-adventures](https://vim-adventures.com)
     - [coolshell-vim](https://coolshell.cn/articles/5426.html)
 - [markdown](https://www.jianshu.com/p/20e82ddb37cb)
+    - [cmdMarkdown](https://www.zybuluo.com/cmd/)
     - [stackedit](https://stackedit.io/)
     - [Macdown](https://macdown.uranusjr.com)
     - [Mou](http://25.io/mou/)
