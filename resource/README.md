@@ -48,6 +48,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Virtual](#Virtual)
 * [Windows OS Download](#windows-os-download)
 * [Windows Software](#windows-software)
+* [WinPE](#winpe)
 * [Other](#Other)
 
 
@@ -679,6 +680,17 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 - [MIT](https://choosealicense.com/licenses/mit/)
 - [choosealicense](https://choosealicense.com)
+
+
+
+## WinPE
+
+- [WEPE](http://www.wepe.com.cn/download.html) 推荐！
+- [Hiren's BootCD PE](https://www.hirensbootcd.org/)
+- [老毛桃](https://www.laomaotao.net/)
+- [通用Pe](http://www.tongyongpe.com/)
+
+
 
 
 
