@@ -23,6 +23,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 * [Github](#Github)
 * [Hosts](#Hosts)
 * [Icons](#Icons)
+* [IMEI](#imei)
 * [License](#License)
 * [Linux Kernel](#linux-kernel)
 * [Linux](#Linux)
@@ -93,6 +94,15 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [chocolatey](https://chocolatey.org)
 - [scoop](https://scoop.sh/)
 - [wox]()
+
+
+
+
+## IMEI
+
+* [numberingp](https://www.numberingplans.com/?page=analysis&sub=imeinr)
+* [imeidb](http://www.imeidb.com/)
+
 
 
 
@@ -634,6 +644,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Boot
 
+- [Bootice](http://www.ipauly.com/2015/11/15/bootice/)
 - [unetbootin](https://unetbootin.github.io/)
 - [universalUsbInstaller](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)
 - [dd4win](http://www.chrysocome.net/dd)
