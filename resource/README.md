@@ -278,8 +278,19 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
     - [emojione](https://www.emojione.com/)
 - [readme](https://github.com/guodongxiaren/README)
+- [gitignore](https://github.com/github/gitignore)
 - [git-cmd-train](https://try.github.io/levels/1/challenges/1)
-- [github使用教程](https://www.zhihu.com/question/20070065)
+- github使用教程
+    * [zhihu](https://www.zhihu.com/question/20070065)
+    * [图解git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+    * [git-guide](http://rogerdudler.github.io/git-guide/index.zh.html)
+    * [git-cheat-sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
+- Client
+    * [Tower](https://www.git-tower.com/)
+    * [sourcetreeapp](https://www.sourcetreeapp.com/)
+    * [Official](https://desktop.github.com/)
+
+
 
 
 
@@ -439,7 +450,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 
 ## Blog
-
+- [xia1ge](https://www.xia1ge.com/)
 - [James Routley](https://routley.io/)
 - [crossoverjie.top](https://crossoverjie.top/)
 - [鸟窝](https://colobu.com/)
