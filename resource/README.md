@@ -670,10 +670,16 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Algorithm
 
+- [oi-wiki](https://oi-wiki.org/)
+- [编程之法](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/)
+- [hiredintech](https://www.hiredintech.com/courses)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [yuanbin.me](https://visualgo.net/en)
+- [visualgo](https://visualgo.net/en)
 - [leetcode](https://leetcode.com/problemset/all/)
 - [算法珠玑](https://www.gitbook.com/book/soulmachine/algorithm-essentials/details)
 - [ALGS4](https://algs4.cs.princeton.edu/home/)
-- [识别算法](https://www.zhihu.com/question/20191727)
+
 
 
 
