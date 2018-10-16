@@ -86,6 +86,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Blockchain
 
+- [Blockchain](https://www.blockchain.com/explorer)
+- [dapps](https://www.stateofthedapps.com/)
 - [101blockchains](https://101blockchains.com/)
 - [Bitcointalk](https://bitcointalk.org/index.php)
 - [securityartwork](https://www.securityartwork.es/en/)
@@ -94,7 +96,6 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [cdecker](https://cdecker.github.io/btcresearch/#2017)
 - [blockchainlibrary](https://blockchainlibrary.org/category/academic-publications/)
 - [以太坊爱好者](http://ethfans.org/wikis/Home)
-- [bitcointalk](https://bitcointalk.org)
 - [CNN](https://www.ccn.com)
 - [blockchain-sec](https://blockchain-sec.com)
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
@@ -106,6 +107,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Blog
 
+- [phodal](https://www.phodal.com/)
 - [xia1ge](https://www.xia1ge.com/)
 - [James Routley](https://routley.io/)
 - [crossoverjie.top](https://crossoverjie.top/)
@@ -654,6 +656,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Third ROM
 
+- [syberiaos](https://syberiaos.com)
 - [Arrows](https://arrowos.net/)
 - [PixelExperience](https://download.pixelexperience.org/)
 - [Carbon](https://get.carbonrom.org/)
@@ -677,6 +680,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [epicrom](http://www.epicrom.pro/)
     - [LOS](https://download.lineageos.org/chiron)
     - [MOKEE](https://download.mokeedev.com/?device=chiron)
+    - [Nitrogen](http://cergo666.tk/wight554/)
 - [opengapps](https://opengapps.org)
 
 
