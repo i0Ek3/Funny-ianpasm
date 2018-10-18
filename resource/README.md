@@ -553,7 +553,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 - [shadowsocks.be](https://shadowsocks.be/)
 - [privoxy](http://www.privoxy.org)
-- [ShadowsocksCustom](https://portal.shadowsocks.to)
+- [ShadowsocksCustom](https://portal.shadowsocks.se)
 - [PortsClients4SS](https://github.com/shadowsocks/shadowsocks/wiki/Ports-and-Clients)
 - [shadowsocks.org](http://shadowsocks.org/en/index.html)
 - [OVPN](https://www.ovpn.com/en)
