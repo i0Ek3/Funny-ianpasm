@@ -495,6 +495,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [shell](http://www.freebuf.com/articles/system/147768.html)
     - [command-line-kung-fu](https://pen-testing.sans.org/blog/category/command-line-kung-fu)
 - c/c++
+    - [isocpp](https://isocpp.org/)
     - [cppcon](https://cppcon.org/)
     - [en](http://en.cppreference.com/w/)
     - [zh](http://zh.cppreference.com/w/首页)
@@ -504,9 +505,11 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [廖雪峰python3教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 - [go](https://golang.org)
     - [go-lang.cat-v](http://go-lang.cat-v.org/)
+    - [gowalker](https://gowalker.org/)
     - [go-tour](https://go-tour-zh.appspot.com/welcome/1)
     - [the-way-to-go](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
     - [the-way-to-go-official](https://sites.google.com/site/thewaytogo2012/)
+    - [go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming)
 - [Clojure](https://clojure.org/index)
 - [scala](http://www.scala-lang.org)
 - vala
