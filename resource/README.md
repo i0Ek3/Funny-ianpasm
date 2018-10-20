@@ -495,6 +495,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [shell](http://www.freebuf.com/articles/system/147768.html)
     - [command-line-kung-fu](https://pen-testing.sans.org/blog/category/command-line-kung-fu)
 - c/c++
+    - [meetingcpp](https://www.meetingcpp.com/)
     - [isocpp](https://isocpp.org/)
     - [cppcon](https://cppcon.org/)
     - [en](http://en.cppreference.com/w/)
