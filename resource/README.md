@@ -429,7 +429,8 @@ Something in here are my collections for funny resource which includes Linux/Sec
 
 ## Movie
 
-- [bd-film](http://www.bd-film.co/)
+- [bd-film](https://www.bdys.co) 原链接失效，新的网站垃圾广告多多。
+- ~~[bd-film](http://www.bd-film.co/)~~
 - [bt0](http://bt0.com/)
 - [rarbg](https://rarbg.is/torrents.php)
 - [阳光电影](http://ygdy8.com)
@@ -511,6 +512,7 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [the-way-to-go](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
     - [the-way-to-go-official](https://sites.google.com/site/thewaytogo2012/)
     - [go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming)
+    - [advanced-go-programming-book](https://chai2010.cn/advanced-go-programming-book/)
 - [Clojure](https://clojure.org/index)
 - [scala](http://www.scala-lang.org)
 - vala
