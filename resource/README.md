@@ -679,14 +679,16 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [sailfish os](http://images.devaamo.fi)
 - [Oreo for bacon](https://forum.xda-developers.com/oneplus-one/orig-development/rom-aosp-oreo-oneplus-one-t3666741)
     - [download](https://androidfilehost.com/?w=files&flid=211773)
-- Xiaomi MI Mix 2(chiron)
+- Xiaomi Mix2(chiron)
     - [mimix2builds](https://funkyhuawei.club/mimix2builds)
-    - [xiaomi.eu](https://xiaomi.eu/community/threads/8-10-18.47060/)
-        - [download1](http://miui.dedyk.gq)
-        - [download2](https://androidfilehost.com/?w=files&flid=284019)
-        - [download3](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/)
-    - [en.fastboot](http://en.miui.com/a-234.html)
-    - [cn.fastboot](http://www.miui.com/zt/miuirom/download.php)
+    - MIUI 这里提供的都是开发版，稳定版请自行解决。
+        - [en](http://en.miui.com/a-234.html)
+        - [cn](https://www.miui.com/download.html)
+        - [pl](https://miuipolska.pl/download/)
+        - [xiaomi.eu](https://xiaomi.eu/community/threads/8-10-18.47060/) xiaomi.eu和pl的包名是一样的，具体差异我也不是很清楚。我试试～
+            - [download1](http://miui.dedyk.gq)
+            - [download2](https://androidfilehost.com/?w=files&flid=284019)
+            - [download3](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/)
     - [epicrom](http://www.epicrom.pro/)
     - [LOS](https://download.lineageos.org/chiron)
     - [MOKEE](https://download.mokeedev.com/?device=chiron)
@@ -704,11 +706,27 @@ Something in here are my collections for funny resource which includes Linux/Sec
 - [MSDN](https://msdn.itellyou.cn/)
 
 
+
 ## Windows Software
 
+- Windows Optinum
+    - [@felixrieseberg:windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) Windwos下开发环境部署。
+    - [@szzhiyang:PerfectWindows](https://github.com/szzhiyang/PerfectWindows)
+    - [@adolfintel:Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) Windows10高度精简。
+    - []()
 - [chocolatey](https://chocolatey.org)
 - [scoop](https://scoop.sh/)
-- [wox]()
+- [Babun](https://github.com/babun/babun) 一款Shell。
+- [wox](http://www.wox.one) 类似mac下的Alfreld。
+- [speedcrunch](http://www.speedcrunch.org/) 计算器。
+- [Vivaldi](https://vivaldi.com/zh-hans/download/) 一款高度可定制化浏览器。
+- [IRIDIUM](https://iridiumbrowser.de/) 一款德国品牌的浏览器。
+- [WoeUSB](https://github.com/slacka/WoeUSB)
+- [Multibootusb](https://github.com/mbusb/multibootusb)
+- [sudo for Windows](https://github.com/mattn/sudo)
+- []()
+- []()
+
 
 
 ## WinPE
