@@ -681,14 +681,11 @@ Something in here are my collections for funny resource which includes Linux/Sec
     - [download](https://androidfilehost.com/?w=files&flid=211773)
 - Xiaomi Mix2(chiron)
     - [mimix2builds](https://funkyhuawei.club/mimix2builds)
-    - MIUI 这里提供的都是开发版，稳定版请自行解决。
-        - [en](http://en.miui.com/a-234.html)
-        - [cn](https://www.miui.com/download.html)
+    - MIUI
+        - [en](https://en.miui.com/download-334.html)
+        - [cn](https://www.miui.com/download-337.html)
         - [pl](https://miuipolska.pl/download/)
-        - [xiaomi.eu](https://xiaomi.eu/community/threads/8-10-18.47060/) xiaomi.eu和pl的包名是一样的，具体差异我也不是很清楚。我试试～
-            - [download1](http://miui.dedyk.gq)
-            - [download2](https://androidfilehost.com/?w=files&flid=284019)
-            - [download3](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/)
+        - [eu](https://jaist.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/)
     - [epicrom](http://www.epicrom.pro/)
     - [LOS](https://download.lineageos.org/chiron)
     - [MOKEE](https://download.mokeedev.com/?device=chiron)
