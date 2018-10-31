@@ -5,7 +5,7 @@ In this project, there are something which I think funny and useful, such as .cr
 ## Contents
 
 * [`activate`](#activate)
-* [`resources`](#resource)
+* [`resources`](#resource) Not update again, please visit [Links](https://github.com/i0Ek3/Links).
 * [`crx`](#crx)
 * [`miraculous`](#miraculous)
 

@@ -1,5 +1,7 @@
 # Funny Resources
 
+**[ATTENTION: This repo will not update again, please visit new one: [https://github.com/i0Ek3/Links](https://github.com/i0Ek3/Links)]**
+
 Something in here are my collections for funny resource which includes Linux/Security/Language/Movie/Music etc., I will update this resources all the time until I needn't this(impossible), just enjoy yourself.
 
 # Contents
