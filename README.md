@@ -4,10 +4,18 @@ In this project, there are something which I think funny and useful, such as .cr
 
 ## Contents
 
+* [`privacy`](#privacy)
 * [`activate`](#activate)
 * [`resources`](#resource) Not update again, please visit [Links](https://github.com/i0Ek3/Links).
 * [`crx`](#crx)
 * [`miraculous`](#miraculous)
+
+
+## privacy 
+    
+**!!!IMPORTANT!!!**    
+
+> If you dont want MircoSoft track you and all you data, please install Win10Privacy to anti it.!
 
 
 ## activate
