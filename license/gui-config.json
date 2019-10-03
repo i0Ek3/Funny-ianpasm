@@ -1,0 +1,113 @@
+{
+    "configs": [
+        {
+            "server": "au1-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "Australia 1,Rate:1.00"
+        },
+        {
+            "server": "de1-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "Germany 1,Rate:1.00"
+        },
+        {
+            "server": "hk3-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "Hong Kong 3,Rate:0.01"
+        },
+        {
+            "server": "hk5-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "Hong Kong 5,Rate:1.00"
+        },
+        {
+            "server": "jp1-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "Japan 1,Rate:1.50"
+        },
+        {
+            "server": "jp2-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "Japan 2,Rate:1.00"
+        },
+        {
+            "server": "jp3-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "Japan 3,Rate:0.50"
+        },
+        {
+            "server": "nl1-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "Netherlands 1,Rate:0.10"
+        },
+        {
+            "server": "ru1-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "Russia 1,Rate:1.20"
+        },
+        {
+            "server": "uk1-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "United Kingdom 1,Rate:0.10"
+        },
+        {
+            "server": "us1-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "United States 1,Rate:0.01"
+        },
+        {
+            "server": "us2-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "United States 2,Rate:0.01"
+        },
+        {
+            "server": "us3-sta72.t5wb3.space",
+            "server_port": 42459,
+            "local_port": 1080,
+            "password": "kWpcn3zG9nCR",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "United States 3,Rate:0.01"
+        }
+    ],
+    "localPort": 1080,
+    "index": 0,
+    "global": false,
+    "enabled": true,
+    "isDefault": false
+}

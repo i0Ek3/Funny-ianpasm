@@ -1,0 +1,51 @@
+#!/bin/sh
+echo " "
+echo " "
+echo "Paragon NTFS for Mac 15"
+echo " "
+echo " "
+echo " "
+if ps ax | grep -v grep | grep "FSApp" &> /dev/null
+then
+    running=1
+	killall FSApp
+	sleep 1
+else
+    running=0
+fi
+
+
+
+who_am_i=$USER
+chmod -R 644 /private/etc/sudoers
+echo $who_am_i' ALL=(ALL) NOPASSWD: ALL #TEMP-ROOT' >> /private/etc/sudoers
+
+
+
+echo `sudo launchctl unload /Library/LaunchDaemons/com.paragon-software.installer.plist`
+echo `sudo launchctl unload /Library/LaunchDaemons/com.paragon-software.ntfs.loader.plist`
+echo `sudo launchctl unload /Library/LaunchDaemons/com.paragon-software.ntfsd.plist`
+echo `sudo kextunload -b com.paragon-software.kext.VDMounter`
+echo `sudo kextunload -b com.paragon-software.filesystems.ntfs`
+echo `sudo rm /Library/Application\ Support/Paragon\ Software/.support`
+echo `sudo rm /Library/Application\ Support/Paragon\ Software/.config`
+echo `sudo launchctl load /Library/LaunchDaemons/com.paragon-software.installer.plist`
+echo `sudo launchctl load /Library/LaunchDaemons/com.paragon-software.ntfs.loader.plist`
+echo `sudo launchctl load /Library/LaunchDaemons/com.paragon-software.ntfsd.plist`
+
+sudo chmod -R 440 /private/etc/sudoers
+sleep 1
+sudo sed -i '' -e'/#TEMP-ROOT/d' /private/etc/sudoers
+
+echo "You have just obtained a new"
+echo "10 days grace period..."
+echo " "
+echo "Thanks Sharky !"
+sleep 10
+
+if [ "$running" == "1" ]
+then
+
+(open -a /Applications/Paragon\ NTFS\ for\ Mac\ 15.app) &
+fi
+

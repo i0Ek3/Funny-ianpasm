@@ -1,0 +1,9 @@
+激活说明:
+
+choose "legacy licensing" -> "add eval or sdl (regcode)"
+
+185F996AEEC2
+7808F4308398
+F38075B00218
+EBF578C60F6E
+00479F7EE8D6
