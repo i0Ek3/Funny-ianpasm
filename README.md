@@ -11,6 +11,8 @@ My daily use stuffs, have fun.
 * [crx](#crx)
 * [license](#license) 
 * [tampermonkey](#tampermonkey)
+* [N900](#N900)
+* [E72](#E72)
 * [miraculous](#miraculous)
 
 
