@@ -1,13 +1,5 @@
 # Activate
 
-这里我收集了一些windows系统的激活工具，并未全部测试，无法保证结果！
-
-为防止被和谐，整个备用：
-
-- [备用下载地址1:tnnr](https://pan.baidu.com/s/1uppwPvlBXh_lwWT64bkZRQ)。
-- [备用下载地址2:]()
-
-
 ## Windows XP/7 Downloads
 
 这里是一些链接可以下载纯净的windows XP/7系统。
